@@ -6,7 +6,7 @@
 * Overview of the session to students - (Time: 5 minutes)
 
 ## Introduction to Cyber Hygiene
-* ### Activity 1 - Starter activity on Cyber Hygiene - (Time: 40 Minutes)
+## Activity 1 - Starter activity on Cyber Hygiene - (Time: 40 Minutes)
 
 ## Activity 2 Practicing Keystroke Injection Attack using USB Rubber Ducky
 * Demonstration – equipment of the session
@@ -15,15 +15,8 @@
 * Executing your first payload
 *	Additional payloads - (Time: 30 Minutes)
 (Break: 10 minutes)
-AirDrive Forensic Keylogger Pro:
-•	Setting up airdrive forensic keylogger
-•	Monitoring the keylogger
+## Activity 3 AirDrive Forensic Keylogger Pro:
+*	Setting up airdrive forensic keylogger
+*	Monitoring the keylogger
 (Time: 15 Minutes)
-Hack RF One:
-•	Installing GNU Radio Companion
-•	Coding FM radio
-•	Listening to FM radio
-(Time: 45 Minutes)
-End - Challenge
-(Time: 30 Minutes)
-Total Time: 2 hours 40 minutes
+## Hack RF One:
