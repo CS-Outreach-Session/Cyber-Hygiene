@@ -4,3 +4,4 @@ We will see how easy it is to record users’ keystrokes in these exercises.
 	 
  ## AirDrive Forensic Keylogger Pro – USB
  The AirDrive Forensic Keylogger pack contains just the Keylogger itself (shown below), which has a male and female USB port. A female port is the receiver side, and the male side is the connector. The device acts as a WiFi access point you can connect to, with either a computer, smartphone, laptop, etc. While connected, you will receive a constant live stream of strokes the keyboard is typing. The device only works with external USB keyboards as the device has to be plugged inline between the keyboard and PC; hence it does not work with inbuilt keyboards like laptops or a computer desktop. 
+ ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/AirDrive_Forensic_Keylogger%20Pro_USB.PNG)
