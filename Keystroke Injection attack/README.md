@@ -21,20 +21,13 @@ To utilise the USB Rubber Ducky, you will need the Ducky pack and a Miro SD Card
 ## Writing your duckyScript
 The sduckyScript is a simple scripting language for automating keypresses. It was originally developed for USB Rubber Ducky. It can be programmed in any ASCII text editor such as notepad, gedit nano, vo, emacs etc. Each command resides on a new line and may have the following options. Commands are written in ALL CAPS.
 
-| Command	       | Description           | 
-| ------------- |:-------------:| 
-| REM	          | Comment. – Lines beginning with REM is a comment | 
-| DEFAULTDELAY or DEFAULT_DELAY     |Time in ms between every command.  Is used to define how long to wait in milliseconds to wait between each subsequent command. This is useful to allow the PC to process previous commands      |   
-| DELAY| Delay in ms    |  
-| STRING | A string could be anyone of the following characters. String will be useful for whenever you would type out a command to a computer.
-STRING | a-z A-Z 0-9 !-), ‘~=_-“’;:<,>.?[{}]/!@#$%^&*()  |  
-| LOCALE | Sets the keyboard layout. Available: DE, ES, GB, US, DK, RU, FR    |  
-| WINDOWS or GUI | Emulates the Windows-Key. This will be useful to as most functions on a PC can be performed from the Windows-Key.      |  
-| MENU or APP | Emulates the App Key (right click). Again, this will be useful to access certain functions    |  
-| ALT | Emulates the ALT key.  Again, this will be useful to access certain functions     |  
-| CONTROL or CTRL | Emulates the CTRL key.  Again, this will be useful to access certain functions      | 
 
+To begin coding writing your script complete the following tasks:
+* Open the [Duck code encoder page](https://ducktoolkit.com/encode)
+* Type or copy the script 1 into the box and then press encode the payload  as indicated in the Figure below
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/rubber-ducky-usb-full-kit.jpg)
 
+*
 [^note]:
     Named No responsibility is taken for any damage, harm or legal actions caused by misuse of this tutorial. The user should follow the guidelines contained in this document only for the purpose of education, otherwise no liability will be assumed. It is the user's responsibility to obey all effective laws in country, which may prohibit usage of this product.
 
