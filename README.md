@@ -6,8 +6,8 @@
 * Overview of the session to students - (Time: 5 minutes)
 
 * ## [Introduction to Cyber Hygiene](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Introduction%20to%20Cyber%20Hygiene#what-is-cyber-hygiene-)
- - ## Activity 1 - Starter activity on Cyber Hygiene - (Time: 40 Minutes)
- - ## Activity 2 - Practicing Keystroke Injection Attack using USB Rubber Ducky
+  - ## Activity 1 - Starter activity on Cyber Hygiene - (Time: 40 Minutes)
+  - ## Activity 2 - Practicing Keystroke Injection Attack using USB Rubber Ducky
 * Demonstration – equipment of the session
 * About Keystroke Injection Attack
 * Writing your first payload
