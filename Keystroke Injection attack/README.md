@@ -40,7 +40,7 @@ Repeat the above steps to execute script 2 as illustrated in the following Figur
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Duck_toolkitscript2.PNG)
 
 # Exercises
-Penetration testers uses more complex scripts to explore (reconnaissance) or to perfom Keystroke Injection attacks to test the security posture of a target. Use the following scripts to observe and comments the effects of the attacks. 
+Penetration testers use more complex scripts to explore (reconnaissance) or perform Keystroke Injection attacks to test a target's security posture. Use the following scripts to observe and comment on the effects of the attacks.
 
 * ### What kind of information about a user can you gather by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) 
 * ### What kind of infromation about a network can you gather by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) 
