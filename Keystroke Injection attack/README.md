@@ -8,3 +8,5 @@ In this activity, you will implement a simple form of USB keystroke injection at
 ## Hardware for the activity - USB Rubber Ducky
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/rubber-ducky-usb-full-kit.jpg)
 ## Rubber Ducky Parts
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/usbRubberD.PNG)
