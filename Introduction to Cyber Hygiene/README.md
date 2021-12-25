@@ -18,3 +18,18 @@ The good news is that there are things we can do to improve our Cyber hygien
 * Avoid Sharing Personal Information Online
 * Improve your privacy and security settings
 * Avoid using public WIFI
+
+# Good Practices for Cyber Hygiene
+
+* Keep software up to date, keeping software up to date means it is always ready to deal with the latest threats and any exploits will have been patched.
+
+* Use secure passwords/password managers, avoid using common or easy to guess passwords means you’re less likely to be vulnerable to brute force attacks. 
+* Make regular backups of data, in the case of data being lost or corrupted it can always be recovered from a backup.
+
+* Update your software regularly 
+
+* Avoid accessing public Wi-Fi. Remember, whenever you connect your device to the Internet, you are at the mercy of the network owner. The person who owns the internet gateway can successfully filter your internet traffic and subsequently exploit your device through different forms of attacks such as ARP Poisoning attacks, DNS Spoofing attacks, SSL stripping attacks, etc. If you must use Public Wi-Fi. Remember any device could be at risk, be cautious — treat all Wi-Fi links with suspicion.
+
+* Verify the wireless connection, do not just rely on names - Some bogus links — that have been set up by malicious users — will have a connection name that’s deliberately similar to the coffee shop, hotel or venue that’s offering free W - i-Fi.
+
+* Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. If you need to access any websites that store or require the input of any sensitive information — including social networking, online shopping, and online banking sites — it may be worthwhile accessing them via your mobile phone network, instead of the public Wi-Fi connection.
