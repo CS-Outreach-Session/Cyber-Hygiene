@@ -7,6 +7,8 @@ Having good cyber hygiene is important not only to maintain the health of your s
 * Weak password usage and storage 
 * Insufficient education
 * Cybercriminals Love Online Sharers
+* Security breach, attacks from hackers through phishing, hacking, malware, spam, or viruses could cost loss of accounts or data
+* Out of date software, having out of date software 
 # What Can We Do To Protect Ourselves?
 The good news is that there are things we can do to improve our Cyber hygien 
 * Employ extra protection across all your devices.
