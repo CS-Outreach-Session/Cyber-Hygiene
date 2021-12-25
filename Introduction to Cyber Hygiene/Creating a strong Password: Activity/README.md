@@ -4,7 +4,7 @@ The key to your online security is to have strong passwords, but the challenge i
 
 Read about [World Password Day](https://www.fortinet.com/blog/industry-trends/ensuring-strong-cyber-hygiene-on-world-password-day) to learn about how do cybercriminals commonly compromise Passwords, and how you can prevent your passwords from being compromised? 
 
-## Exercise
+## Exercises
 * ### Strong passwords can be difficult to remember. What can you do to avoid forgetting them?
 * ### When it’s time to change your password, what’s the best way to choose a new one?
 
