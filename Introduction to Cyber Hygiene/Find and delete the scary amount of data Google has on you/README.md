@@ -1,4 +1,4 @@
-# Find and delete the scary amount of data Google has on you
+# Find and delete the scary amount of data Google has on you - 10 minutes 
 
 Google collects a frightening amount of data about you. You can find and delete it now. Chances are, Google knows your name, your face, your birthday, gender, other email addresses you use, your password and phone number. Some of this is listed as public information (not your password, of course). Here's how to see what Google shares with the world about you.
 
