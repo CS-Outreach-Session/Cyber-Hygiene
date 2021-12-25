@@ -33,3 +33,6 @@ The good news is that there are things we can do to improve our Cyber hygien
 * Verify the wireless connection, do not just rely on names - Some bogus links — that have been set up by malicious users — will have a connection name that’s deliberately similar to the coffee shop, hotel or venue that’s offering free W - i-Fi.
 
 * Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
+
+# Starter activity on Cyber Hygiene 
+* ## Creating a strong Password: Activity 1 – 5 minutes
