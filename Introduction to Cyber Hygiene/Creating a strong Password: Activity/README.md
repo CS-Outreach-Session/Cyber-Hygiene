@@ -1,4 +1,4 @@
-# Creating a strong Password: Activity 1 – 5 minutes
+# Creating a strong Password: Activity 7 minutes
 
 The key to your online security is to have strong passwords, but the challenge is to create distinct passwords that you can remember -- or else you may fall into the bad habit of using the same login credentials for multiple accounts.
 
