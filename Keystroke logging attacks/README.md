@@ -8,5 +8,38 @@ We will see how easy it is to record users’ keystrokes in these exercises.
  ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/AirDrive_Forensic_Keylogger%20Pro_USB.PNG)
  
   ## Setup
-To begin using the Keylogger, unplug the desktop keyboard you wish to monitor. Plug the keyboard male USB port into the female USB port of the Keylogger as shown below, then plug the male port of the Keylogger back into the desktop computer. The port can be loose, so make sure the keyboard is still working, and you can type.
+  
+  Installation of the KeyGrabber USB is quick and easy. Simply plug it in between the USB keyboard and the USB port. The port can be loose, so make sure the keyboard is still working, and you can type.
+
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Setup_AirDrive_Forensic_Keylogger%20Pro_USB.PNG)
+
+## Configurations 
+* Once connected, open a web-browser and type in 192.168.4.1. The device will respond with a webpage presenting the data log, settings, and configuration options.
+
+* To begin monitoring the strokes of the keyboard, connect to the air drive Wi-Fi network on another device from which you wish to monitor from.
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Configuring_AirDrive_Forensic_Keylogger%20Pro_USB.PNG)
+
+* Open the settings of the AirDrive. You will be presented with a menu similar to the one below.
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Configuring2_AirDrive_Forensic_Keylogger%20Pro_USB.PNG)
+
+* You may change the access point security so you can give the access point a password from an open network to a WPA2-PSK and give the device a password (also make note of the password).
+*  Scroll down to the Key Logging section and set the keyboard layout to be English (UK) rather than US.
+* If need be, you can also reset the data log here with the delete log button. 
+
+* Now after changing the settings, see if you can try accessing the keylogger on a different device such as your phone or other desktops so you can monitor what the user us typing. 
+
+
+## Viewing recorded data
+
+To view recorded data, plug the device in-between the keyboard and USB port, and press the 3-key combination simultaneously (by default K, B, S
+
+* Once keystroke data has been recorded, it may be viewed or downloaded on any personal device equipped with Wi-Fi, such as smartphone, tablet, laptop or desktop computer.
+* Each device has a built-in 3-key combination (by default K, B, S). Press these 3 magic keys simultaneously to trigger flash drive mode. 
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/KeyGrabber_Keybord.PNG)
+
+
+
+
