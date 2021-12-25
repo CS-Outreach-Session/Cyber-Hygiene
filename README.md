@@ -22,7 +22,10 @@
 
 
 # [Activity 3 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
-*	Setting up airdrive forensic keylogger
-*	Monitoring the keylogger
+*	AirDrive Forensic Keylogger Pro – USB
+*	Setting up Forensic Keylogger Pro – USB
+*	Configurations
+*	Viewing recorded data
+
 
 # Activity 4 - Hack RF One:
