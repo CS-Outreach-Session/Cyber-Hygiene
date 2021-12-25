@@ -35,29 +35,6 @@ STRING | a-z A-Z 0-9 !-), ‘~=_-“’;:<,>.?[{}]/!@#$%^&*()  |
 | CONTROL or CTRL | Emulates the CTRL key.  Again, this will be useful to access certain functions      | 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
