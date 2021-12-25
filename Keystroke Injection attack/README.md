@@ -42,5 +42,8 @@ Repeat the above steps to execute script 2 as illustrated in the following Figur
 # Exercises
 Penetration testers uses more complex scripts to explore (reconnaissance) or to perfom Keystroke Injection attacks to test the security posture of a target. Use the following scripts to observe and comments the effects of the attacks. 
 
-* ## What infromation about a user can you gather by executing the [duckyscript3]() 
+* ## What kind infromation about a user can you gather by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) 
+* * ## What kind infromation about a a network can you gather by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) 
+
+
 
