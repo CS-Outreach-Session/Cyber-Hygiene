@@ -5,7 +5,7 @@ Google collects a frightening amount of data about you. You can find and delete 
 * Choose Personal info from the menu bar and review the information. You can change or delete your photo, name, birthday, gender, password, other emails and phone number.
 * If you'd like to see what information of yours is available publicly, scroll to the bottom and select Go to About me.
 * To take a look at Google's record of your online activity, do the following:
-** Choose Data & Personalization from the navigation bar.
+- Choose Data & Personalization from the navigation bar.
 ii.	To see a list of all your activity that Google has logged, scroll to Activity controls and select Web & App Activity. This is where all your Google searches, YouTube viewing history, Google Assistant commands and other interactions with Google apps and services get recorded.
 iii.	To turn it completely off, move the toggle to the off position. 
 iv.	If you want Google to stop tracking just your Chrome browser history and activity from sites you sign into with your Google account, uncheck the first box.
