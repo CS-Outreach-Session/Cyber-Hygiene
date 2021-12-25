@@ -47,7 +47,7 @@ Penetration testers use more complex scripts to explore (reconnaissance) or perf
 
   * What kind of information about a user can you gather by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) ?
   * What kind of infromation about a network can you gather by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) ?
-## Exploit Scripts -  Malicious code injection attack 
+## Exploit Scripts -  Malicious code injection 
 * A malicious code attack is a foundational tool used to carry out most cybersecurity attacks to create or exploit computer vulnerabilities. Hackers use this attack method to cause unwanted changes, damage, or spread malware into the computer system. In this exercise, you will practice executing code injection attacks by plugging a USB into a computer system. The script you are to run is safe, thus, no need to panic.  Repeat the above i - vi steps to execute the following scripts:
   * What can you observe by executing the [duckyscript5](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyscript5-Malicious%20code%20injection%20attack) ?
 # Take home
