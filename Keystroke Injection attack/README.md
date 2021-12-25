@@ -26,28 +26,13 @@ The sduckyScript is a simple scripting language for automating keypresses. It wa
 | REM	          | Comment. – Lines beginning with REM is a comment | 
 | DEFAULTDELAY or DEFAULT_DELAY     |Time in ms between every command.  Is used to define how long to wait in milliseconds to wait between each subsequent command. This is useful to allow the PC to process previous commands      |   
 | DELAY| Delay in ms    |  
-| STRING | . A string could be anyone of the following characters. String will be useful for whenever you would type out a command to a computer.
-STRING | a-z A-Z 0-9 !-), ‘~=_-“’;:<,>.?[{}]/!@#$%^&*() 
-    |  
+| STRING | A string could be anyone of the following characters. String will be useful for whenever you would type out a command to a computer.
+STRING | a-z A-Z 0-9 !-), ‘~=_-“’;:<,>.?[{}]/!@#$%^&*()  |  
 | LOCALE | Sets the keyboard layout. Available: DE, ES, GB, US, DK, RU, FR    |  
 | WINDOWS or GUI | Emulates the Windows-Key. This will be useful to as most functions on a PC can be performed from the Windows-Key.      |  
 | MENU or APP | Emulates the App Key (right click). Again, this will be useful to access certain functions    |  
 | ALT | Emulates the ALT key.  Again, this will be useful to access certain functions     |  
 | CONTROL or CTRL | Emulates the CTRL key.  Again, this will be useful to access certain functions      | 
 
-Command	Description
 
-DEFAULTDELAY or DEFAULT_DELAY	Time in ms between every command.  Is used to define how long to wait in milliseconds to wait between each subsequent command. This is useful to allow the PC to process previous commands.
-DELAY	Delay in ms
-STRING	Types the following string.  Processes the following text. A string could be anyone of the following characters. String will be useful for whenever you would type out a command to a computer.
-STRING | a-z A-Z 0-9 !-), ‘~=_-“’;:<,>.?[{}]/!@#$%^&*() 
-REPEAT or REPLAY	Repeats the last command n times
-LOCALE	Sets the keyboard layout. Available: DE, ES, GB, US, DK, RU, FR
-KEYCODE	Types a specific key code (modifier, key1[, ..., key6]) in decimal or hexadecimal
-LED	Changes the color of the LED in decimal RGB values (0-255)
-WINDOWS or GUI	Emulates the Windows-Key. This will be useful to as most functions on a PC can be performed from the Windows-Key.
-MENU or APP	Emulates the App Key (right click). Again, this will be useful to access certain functions.
-SHIFT	Can be used to navigate fields or select text. This will be useful when navigating file systems, to select specific files.
-ALT	Emulates the ALT key.  Again, this will be useful to access certain functions.
-CONTROL or CTRL	Emulates the CTRL key.  Again, this will be useful to access certain functions.
 
