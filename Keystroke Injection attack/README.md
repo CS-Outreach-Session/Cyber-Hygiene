@@ -16,7 +16,7 @@ There are three main parts that come with the Rubber Ducky that you’ll be usin
 * A compiled version of the file can then be stored on a Micro SD card that is seated in the Rubber Ducky as shown below. When plugged into a USB port, the Ducky will execute the script.
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/usbRubberD.PNG)
-To utilise the USB Rubber Ducky, you will need the Ducky pack and a Miro SD Card reader and writer.
+To utilise the USB Rubber Ducky, you need to assemble the Ducky pack a Miro SD Card reader as indicated in the above Figure.
 
 ## Writing your duckyScript
 The sduckyScript is a simple scripting language for automating keypresses. It was originally developed for USB Rubber Ducky. It can be programmed in any ASCII text editor such as notepad, gedit nano, vo, emacs etc. Each command resides on a new line and may have the following options. Commands are written in ALL CAPS.
