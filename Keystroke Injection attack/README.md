@@ -28,7 +28,5 @@ To begin coding writing your script complete the following tasks:
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Duck_toolkit.PNG)
 
-*
-[^note]:
-    Named No responsibility is taken for any damage, harm or legal actions caused by misuse of this tutorial. The user should follow the guidelines contained in this document only for the purpose of education, otherwise no liability will be assumed. It is the user's responsibility to obey all effective laws in country, which may prohibit usage of this product.
+
 
