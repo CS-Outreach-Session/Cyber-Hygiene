@@ -42,8 +42,10 @@ Repeat the above steps to execute script 2 as illustrated in the following Figur
 # Exercises
 Penetration testers use more complex scripts to explore (reconnaissance) or perform Keystroke Injection attacks to test a target's security posture. Use the following scripts to observe and comment on the effects of the attacks.
 
-* ### What kind of information about a user can you gather by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) 
-* ### What kind of infromation about a network can you gather by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) 
-
-
+## ReconnaissanceScripts
+* What kind of information about a user can you gather by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) 
+* What kind of infromation about a network can you gather by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) 
+## Exploit Scripts
+*Malicious code injection attack 
+A malicious code attack uses harmful computer programming scripts designed to create or exploit computer vulnerabilities. Hackers use this attack method to cause unwanted changes, damage, or spread malware into the computer system. In this exercise, you will practice executing code injection attacks by plugging a USB into a computer system.
 
