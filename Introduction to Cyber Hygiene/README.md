@@ -36,3 +36,4 @@ The good news is that there are things we can do to improve our Cyber hygien
 
 # Starter activity on Cyber Hygiene
 * ## [Creating a strong Password - 7 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Introduction%20to%20Cyber%20Hygiene/Creating%20a%20strong%20Password:%20Activity/README.md#creating-a-strong-password-activity-1--5-minutes) 
+* ## Find and delete the scary amount of data Google has on you
