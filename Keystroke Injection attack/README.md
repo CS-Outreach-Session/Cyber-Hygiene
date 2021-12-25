@@ -7,3 +7,4 @@ Hackers commonly use a keystroke injection attack to execute malicious commands 
 In this activity, you will implement a simple form of USB keystroke injection attacks. The Rubber Ducky uses a simple coding language called Ducky Script language, that when inserted into a computer, acts as a programmable keyboard executing a payload script that has been programmed into the device. 
 ## Hardware for the activity - USB Rubber Ducky
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/rubber-ducky-usb-full-kit.jpg)
+## Rubber Ducky Parts
