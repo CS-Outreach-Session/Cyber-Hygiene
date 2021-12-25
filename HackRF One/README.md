@@ -65,5 +65,10 @@ Make sure to save GNU radio files to a place such as desktop, rather than in the
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Hack_RF_test.PNG)
 
 
+## Visualising FM Radio using HackRF One
+
+To begin your first HackRF program, open GNU radio companion. You will be presented with mostly a blank page and these two blocks as indicated in the Figure below: 
+
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnu_radio_companion.PNG)
 
+The options block gives us information about the program. The variable block is something that will come into play later. For now, you will notice that the options block is currently highlighted in red. A block being coloured red is GNU’s way of telling us that there is an error with our code, and it will not run – in this case the issue is our program doesn’t have an ID. 
