@@ -13,4 +13,6 @@ The good news is that there are things we can do to improve our Cyber hygien
 * Think before you post on social media 
 * Clean-up your digital past
 * Never reuse passwords
-* Avoid Sharing Personal Information Online.
+* Avoid Sharing Personal Information Online
+* Improve your privacy and security settings
+* Avoid using public WIFI
