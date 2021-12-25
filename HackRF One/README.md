@@ -5,7 +5,8 @@ The HackRF One is a wide band software defined radio that is able to receive and
 
 To program the HackRF One, we use a software known as GNU radio companion which is a front-end graphical user interface that allows us to create python programs simply by using blocks to create flowcharts.
 
-## Installing GNU Radio Companion
+## Installing GNU Radio Companion and Setting up the work environment
+
 Begin by downloading the [zip file](https://drive.google.com/file/d/1E-fl3C55wpAZyqESjt1S5UyDY5Q_1sy2/view) for gnu radio components and extract the folder. Placed the extracted folder in the C:drive and install the following packages in the gnu folder.
 
 * vc_redist.x86 – double click file and follow the installer. 
@@ -57,7 +58,3 @@ You can now run GNU Radio Command Prompt, which should be in your windows search
 Make sure to save GNU radio files to a place such as desktop, rather than in the default bin.
 
 
-
-
-## Setting up the work environment
-Before getting started, the HackRF One libraries must be installed on the computer to start using the device
