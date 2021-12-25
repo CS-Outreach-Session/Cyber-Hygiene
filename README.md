@@ -14,7 +14,7 @@
      ### Writing your first payload
      ### Executing your first payload
 
-* ## [Activity 3 - AirDrive Forensic Keylogger Pro (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
+* ## [Activity 3 - Practicing Keystroke logging attacks using AirDrive Forensic Keylogger Pro (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
 *	Setting up airdrive forensic keylogger
 *	Monitoring the keylogger
 (Time: 15 Minutes)
