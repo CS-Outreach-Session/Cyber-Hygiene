@@ -35,4 +35,4 @@ The good news is that there are things we can do to improve our Cyber hygien
 * Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
 
 # Starter activity on Cyber Hygiene
-[* ## Creating a strong Password: Activity 7 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Introduction%20to%20Cyber%20Hygiene/Creating%20a%20strong%20Password:%20Activity/README.md#creating-a-strong-password-activity-1--5-minutes) 
+* ## [Creating a strong Password: Activity 7 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Introduction%20to%20Cyber%20Hygiene/Creating%20a%20strong%20Password:%20Activity/README.md#creating-a-strong-password-activity-1--5-minutes) 
