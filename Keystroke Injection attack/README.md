@@ -35,7 +35,7 @@ To begin coding writing your script complete the following tasks:
 
 Congratulations! You have just executed your first script.
 
-Repeat the above steps to execute script 2 as illustrated in the following Figure. You can copy the script from this [file.]() 
+Repeat the above steps to execute script 2 as illustrated in the following Figure. You can copy the script from this [file.](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript2-%20Printing%20you%20have%20been%20hacked') 
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Duck_toolkitscript2.PNG)
 
