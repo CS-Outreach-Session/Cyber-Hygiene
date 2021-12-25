@@ -54,4 +54,16 @@ If they do not exist, simply create them manually by selecting new and typing th
 You can now run GNU Radio Command Prompt, which should be in your windows search bar. The errors should not matter.
 Make sure to save GNU radio files to a place such as desktop, rather than in the default bin.
 
+## Hardware Setup
+* To begin, we will need the HackRF itself, the micro-USB to USB cable and the antenna.
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Hack_RF.PNG)
+
+* Screw the antenna onto the screw labelled antenna and on the opposite end plug the micro-USB in and connect the USB port to your computer. 
+* To check that the device is working, open a command prompt/terminal window. Type in the window ‘hackrf_info’ as shown below. This will let you know that the computer is seeing the HackRF board as well as give you some information such as the serial number of your board, what firmware version you are running etc. You will also see 4 LED lights on the side of the HackRF board next to the antenna which will be 3v3 = green, 1v8 = orange, RF = red and USB = green. This let’s us know that our board is running and we are good to begin coding.
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Hack_RF_test.PNG)
+
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnu_radio_companion.PNG)
 
