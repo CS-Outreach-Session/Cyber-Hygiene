@@ -51,9 +51,6 @@ If they do not exist, simply create them manually by selecting new and typing th
 
  ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnu_path2.PNG)
 
-* If it does not exists create a new system variable, as shown above and select the path from where GNU Radio was installed.
-With the variable created. Now click the PATH variable again and check for the following variables:
-
 You can now run GNU Radio Command Prompt, which should be in your windows search bar. The errors should not matter.
 Make sure to save GNU radio files to a place such as desktop, rather than in the default bin.
 
