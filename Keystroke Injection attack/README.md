@@ -25,7 +25,7 @@ The sduckyScript is a simple scripting language for automating keypresses. It wa
 To begin coding writing your script complete the following tasks:
 * Open the [Duck code encoder page](https://ducktoolkit.com/encode)
 * Type or copy the script 1 into the box and then press encode the payload  as indicated in the Figure below
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/rubber-ducky-usb-full-kit.jpg)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Duck_toolkit.PNG)
 
 *
 [^note]:
