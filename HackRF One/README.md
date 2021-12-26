@@ -83,7 +83,7 @@ Now to start programming we need to grab our first block. On the right-hand side
 For now, however, we need to grab our next block which is under instrumentation -> QT and we want a QT GUI Frequency Sink. Once again drag it over to the canvas. As a GUI block (graphical user interface) this allows us to visualise the frequency components from our signal. 
 We now need to connect these two together by dragging from the out of the osmocom source to the in of the QT frequency sink. Which will satisfy the error of our osmocom source as it now has somewhere to go. At this point our program should look similar to this: 
 
-![] (https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example.png)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example.png)
 
 Now we need to change our sample rate. This is where the variable block comes into play. A variable block allows us to have a value we can always reference, so if we ever need to change that value we only have to change it in one place. Under our variable block we need to change the same_rate. 32k isn’t very many so we’ll change that to 10 million. To do this double click or right click properties of the variable and in the value box we can type 10 million which we can do easily by typing 10e6 to denote 10 with 6 zeroes (10x10 to the 6th power):
 
