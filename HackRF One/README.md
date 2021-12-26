@@ -78,6 +78,7 @@ Double click the options block and you will be presented with A menu. Simply giv
 Now save the program to your file space or preferably the desktop.
 
 Now to start programming we need to grab our first block. On the right-hand side there will be a large list of categories, near the bottom expand the OsmoSDR category and drag over an osmocom Source block.  An osmocom source is an extraction block that allows us to communicate with different hardware devices for software radio. It being a ‘Source’ block means it is producing a signal in this case a digital signal (a stream of numbers) which will be indicated later on, when different signals come into play, by it being coloured blue. 
+
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnu_Properties_option.PNG)
 
 For now, however, we need to grab our next block which is under instrumentation -> QT and we want a QT GUI Frequency Sink. Once again drag it over to the canvas. As a GUI block (graphical user interface) this allows us to visualise the frequency components from our signal. 
@@ -89,17 +90,20 @@ Now we need to change our sample rate. This is where the variable block comes in
 
 You will notice that now under our osmocom source block that the sample rate has also changed to be 10 million. If you double click on the osmocom source you will notice that under sample rate rather than there being a specific value it shows samp_rate which is referring to the variable block with the ID samp_rate. 
 While in the properties of our osmocom source block we also can change the Ch0: Frequency to 97.9e6 to be closer to the middle of the FM broadcast range. We also want to change the RF Gain to 0.
+
 In our frequency Sink properties we want to turn averaging on to medium to make it easier to see radio stations individually in the graph. 
 At this point we have a functioning program that will visualise the FM radio signals in our area. Make sure to save the file.
 We can now use the play button to execute and compile our program. To stop the program we should use the stop button to stop running the program safely so the HackRF is clean. 
 
 By running our program our current output should look like the diagram below. The major peaks we see are FM radio stations that our HackRF is seeing with the middle 0 being our 97.9 million frequency. 
 
-[](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example2.PNG)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example2.PNG)
 
 To make the 0 on the graph display 97.9 million, we could change the centre frequency of our frequency sink, but instead I’m going to create a new variable for whenever we need to refer to 97.9 million. To do this I can copy and paste our other samp_rate variable, rename it to centre_freq and give it a value of 97.9e6. Now under the frequency sink block, we can change the centre frequency to be the ID of our new variable, in this case centre_freq like so:
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example3.PNG)
 
 We should also go back to our osmocom Source block and change the CH0: frequency to instead refer to centre_freq, so whenever we want to change our centre_freq we only need to change one variable rather than several, making it less likely for us to have an error in the future. 
+
+## [Listening to FM Radio](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Listening%20to%20FM%20Radio)
 
