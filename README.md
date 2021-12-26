@@ -13,7 +13,7 @@
   * Starter activity on Cyber Hygiene
 
   
-# [Activity 2 - Practicing Keystroke Injection using USB Rubber Ducky (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
+# [Activity 2 - USB Threats: Practicing Keystroke Injection using USB Rubber Ducky (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
  * Rubber Ducky Parts
 * Writing your duckyScript
 * Exercises
