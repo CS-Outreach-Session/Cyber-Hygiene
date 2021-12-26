@@ -28,3 +28,30 @@ Now to add the demodulator. The demodulator is the block that actually turns the
 
  ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example8.PNG)
  
+Next we want an Audio sink, which can be found under Audio, which we connect to our WBFM receive. We then want to change the sample rate to be 48 thousand or 48 KHz.
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example9.PNG)
+
+Our flow graph should now produce audio. Before running however, we only really need one of our graphs to be displayed at this point. We could delete the graph, but in case we want to see it again in the future we can instead just right click one of our frequency sinks and select disable, like so: 
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example10.PNG)
+
+At this point if you run the program, you should be able to hear a radio station. If not, you can try changing around your centre_freq or the frequency in your signal source block, it depends on what FM frequencies are strongest in your area. I was able to hear audio with a centre_freq of 98M and a signal source frequency of 1.4M but again, these will vary depending on your area. 
+
+If you’re hearing audio, but also getting a lot of static, try adjusting the antenna a bit on your HackRF or slightly changing frequency. It can also help to follow the next step. 
+
+We can also try adjusting the audio by adding in a GUI widget to our program that will allow us to change the volume of our audio. To do this we first need to add a multiply between our WBFM receive and audio sink. This time using a multiply constant from the math operators. 
+
+You will notice that we currently have a type mismatch, as the multiply constant block wants a digital signal, not an audio signal. We can fix this by changing the IO type to a float. This allows us to connect the WBFM Receive out to the multiply constant in and the out of the multiply to the audio sink in.
+
+Now we need to add in our GUI element. Which we will find in GUI Widgets -> QT and GUI Range. Call the slider audio_gain. Set the default to be 1, the maximum to be 10 and the step to either be 0.25 or 0.5. We then need to change the multiply constant by changing its constant to audio_gain like so:
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example11.PNG)
+
+The final flow diagram should look something like this:
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnuprog_example12.PNG)
+
+Feel free to now create your own payloads for any of the devices. 
+
+
