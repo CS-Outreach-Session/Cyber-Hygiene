@@ -21,14 +21,14 @@
   - Exploit Scripts - Malicious code injection attack
 
 
-# [Activity 3 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
+# [Activity 3 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
 *	AirDrive Forensic Keylogger Pro – USB
 *	Setting up Forensic Keylogger Pro – USB
 *	Configurations
 *	Viewing recorded data
 
 
-# [Activity 4 - Hack RF One](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+# [Activity 4 - Hack RF One (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
 * Installing GNU Radio Companion and Setting up the work environment
 * Hardware Setup
 * Visualising FM Radio using HackRF One
