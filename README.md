@@ -28,4 +28,8 @@
 *	Viewing recorded data
 
 
-# Activity 4 - Hack RF One
+[# Activity 4 - Hack RF One](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+* Installing GNU Radio Companion and Setting up the work environment
+* Hardware Setup
+* Visualising FM Radio using HackRF One
+* Listening to FM Radio
