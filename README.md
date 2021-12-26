@@ -21,7 +21,7 @@ To understand the principles and importance of cyber hygiene.
 
 Students would be required to access a computer system, internet connectivity, and access privilege to download and install applications during the session.
 
-## [Introduction to Cyber Hygiene (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Introduction%20to%20Cyber%20Hygiene#what-is-cyber-hygiene-)
+## [Activity 1 - Introduction to Cyber Hygiene (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Introduction%20to%20Cyber%20Hygiene#what-is-cyber-hygiene-)
   * What is Cyber Hygiene ?
   * Common Cyber Hygiene Problems
   * What Can We Do To Protect Ourselves?
@@ -29,7 +29,7 @@ Students would be required to access a computer system, internet connectivity, a
   * Starter activity on Cyber Hygiene
 
   
-## [Activity 2 - USB Threats: Practicing Keystroke Injection using USB Rubber Ducky (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
+## [Activity 2 - USB Threats: Practicing Keystroke Injection (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
  * Rubber Ducky Parts
 * Writing your duckyScript
 * Exercises
