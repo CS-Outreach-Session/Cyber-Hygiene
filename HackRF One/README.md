@@ -72,3 +72,5 @@ To begin your first HackRF program, open GNU radio companion. You will be presen
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/gnu_radio_companion.PNG)
 
 The options block gives us information about the program. The variable block is something that will come into play later. For now, you will notice that the options block is currently highlighted in red. A block being coloured red is GNU’s way of telling us that there is an error with our code, and it will not run – in this case the issue is our program doesn’t have an ID. 
+
+Double click the options block and you will be presented with A menu. Simply give the program an ID such as ‘Fmradio’ making sure to capitalise the first letter like so:
