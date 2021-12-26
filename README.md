@@ -2,8 +2,15 @@
 # Cyber-Hygiene
 
 ## Plan for today :
-* Introduction 
-* Overview of the session to students - (Time: 5 minutes)
+
+## Learning Objectives
+To understand the principles and importance of cyber hygiene.
+
+## Overview of the session to students - (Time: 5 minutes)
+
+This session will train and engage students to think proactively about cybersecurity, cyber threats, cybercrimes and improving their understanding of online security. Students would be involved in the discussion on social engineering, the right tools for cyber hygiene, general methods and practices of keeping safe and secure online, when and how to access public WIFI, and methods of detecting and reporting cyber harassment. 
+
+Students will perform some exercises using specialised equipment for various cyber hygiene activities, including understanding keystroke injection attacks to execute payloads into network systems, attacking and monitoring keyboard inputs to observe user keystrokes, and setting up listening to transmissions sent over a radio signal. Students would be required to access a computer system, internet connectivity, and access privilege to download and install applications during the session.
 
 ## [Introduction to Cyber Hygiene (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Introduction%20to%20Cyber%20Hygiene#what-is-cyber-hygiene-)
   * What is Cyber Hygiene ?
