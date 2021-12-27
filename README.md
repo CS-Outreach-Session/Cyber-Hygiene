@@ -1,6 +1,5 @@
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/ysj_HIoT.PNG)
 # Cyber-Hygiene
-Dr Aminu Usman
 ## Learning Objectives
 To understand the principles and importance of cyber hygiene.
 
