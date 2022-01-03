@@ -1,4 +1,32 @@
-# Sex Crimes, Victimization, And Obscenity on the Internet 
+# Cyberbullying and Online Exploitation 
+
+## Cyberbullying
+* Cyberbullying is any sort of bullying that occurs online or on mobile devices such as smartphones and tablets. 
+* Cyberbullying is rife on the internet and most young people will experience it or see it at some time.
+* A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
+*  Nearly three out of four children (72%) who experienced an online bullying behaviour in the previous 12 months experienced at least some of it at school or [during school time](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/onlinebullyinginenglandandwales/yearendingmarch2020#bullying-and-school)
+* 
+### Types of cyberbullying
+* Harassment - Act of sending offensive, rude, and insulting messages and being abusive. E.g., Nasty or humiliating comments on posts, photos and videos on social media sites, chat rooms and gaming sites.
+
+* Bullying by spreading rumours and gossip -  Vicious gossip and rumours or posting false and malicious things about people on the internet .
+
+* Impersonation –When someone hacks into another person's email or social media account and uses that person's online identity to send or post hateful or embarrassing stuff to/about others. They may even create fictitious accounts in order to cause pain and embarrassment.
+
+* Cyber Stalking – Sending frequent communications containing threats of harm, harassment, or intimidating remarks, or engaging in other online behaviours that make a person fear for their safety. Depending on what they are doing, their acts may also be criminal.
+
+* Outing and Trickery - This is when someone may divulge personal information about another individual or deceive someone into divulging secrets that they then pass on to others. They could also do this with personal photos and videos.
+
+## Activity on cyberbullying
+
+### Tips 
+
+* Anyone who makes threats against you on the internet may be breaking the law. Using the phone system, which includes the internet, to cause alarm or distress is illegal in the United Kingdom.
+
+* If you make derogatory remarks about someone online or convey threats, the authorities can easily track you out. Your internet service provider keeps an electronic record of every time you visit a website or make a posting.
+
+
+## Online Exploitation: Sex Crimes, Victimization, and Obscenity on the Internet 
 * A variety of victimizations can occur online, many that are similar to their real-world counterparts. 
 * In particular, the nature of the victimizations included:
   - threats:
@@ -38,30 +66,6 @@ photos or images
 ### Sexting law
 * It’s against the law to hold a sexual photo or video of a person under the age of 18, even if it’s a selfie and even if you’re the same age.
 * "Anyone who has or sends indecent images of someone under the age of 18 is breaking the law. Both having and distributing images of this nature is an offence under [the Sexual Offences Act 2003"](https://www.legislation.gov.uk/ukpga/2003/42/contents).
-
-
-## Cyber Bullying 
-* Cyberbullying is any sort of bullying that occurs online or on mobile devices such as smartphones and tablets. 
-* Cyberbullying is rife on the internet and most young people will experience it or see it at some time.
-* A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
-*  Nearly three out of four children (72%) who experienced an online bullying behaviour in the previous 12 months experienced at least some of it at school or [during school time](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/onlinebullyinginenglandandwales/yearendingmarch2020#bullying-and-school)
-* 
-### Types of cyberbullying
-* Harassment - Act of sending offensive, rude, and insulting messages and being abusive. E.g., Nasty or humiliating comments on posts, photos and videos on social media sites, chat rooms and gaming sites.
-
-* Bullying by spreading rumours and gossip -  Vicious gossip and rumours or posting false and malicious things about people on the internet .
-
-* Impersonation –When someone hacks into another person's email or social media account and uses that person's online identity to send or post hateful or embarrassing stuff to/about others. They may even create fictitious accounts in order to cause pain and embarrassment.
-
-* Cyber Stalking – Sending frequent communications containing threats of harm, harassment, or intimidating remarks, or engaging in other online behaviours that make a person fear for their safety. Depending on what they are doing, their acts may also be criminal.
-
-* Outing and Trickery - This is when someone may divulge personal information about another individual or deceive someone into divulging secrets that they then pass on to others. They could also do this with personal photos and videos.
-
-### Tips 
-
-* Anyone who makes threats against you on the internet may be breaking the law. Using the phone system, which includes the internet, to cause alarm or distress is illegal in the United Kingdom.
-
-* If you make derogatory remarks about someone online or convey threats, the authorities can easily track you out. Your internet service provider keeps an electronic record of every time you visit a website or make a posting.
 
 
 Finding help
