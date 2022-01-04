@@ -47,4 +47,4 @@ Students would be required to access a computer system, internet connectivity, a
 * Visualising FM Radio using HackRF One
 * Listening to FM Radio
 
-## [Cyberbullying and Online Exploitation](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
+## [Cyberbullying and Online Exploitation (Time: 20 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
