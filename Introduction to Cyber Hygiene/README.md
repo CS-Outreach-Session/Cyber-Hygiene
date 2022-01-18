@@ -39,10 +39,10 @@ The good news is that there are things we can do to improve our Cyber hygien
 * ## Find and delete the scary amount of data Google has on you
 
 # Checking if your email has been a part of a data breach
-One growing concern, in the realm of cyber hygiene is knowing when you've been a part of a data breach. Recently there has been a surge of companies having their databases breached; stealing all the users account details and data. From these details, hackers will use the breached data and attempt to sign into other services with the same details – hence it is important to use different passwords and enable two-factor authentication on all accounts.
+Sometimes your own secuirty can only do so much. One growing concern, in the realm of cyber hygiene, is more and more companies have had their databases breached; stealing all their userbases account details and data. From these details, hackers will use the breached data and attempt to sign into other services using the same details (hoping users will use the same details for multiple accounts) – hence it is important to use different passwords and enable two-factor authentication on all accounts.
 
-The following site will show if your email address has been apart of any data breaches:
-https://haveibeenpwned.com/ 
-* Check to see if any of your email addresses have been a part of data breaches. 
+The following site will show if your email address has been apart of any data breaches: https://haveibeenpwned.com/ 
+* Simply type your email address in and click the 'pwned?' key to check if any of your email addresses have been a part of data breaches. 
 * If need be, make a note of, or consider changing passwords to any accounts that have been breached and also consider changing the passwords of any accounts that shared those login details.
+* In the future, always consider enabling two-factor authentication and use different passwords for each account (perhaps consider a password manage to remember and create many strong passwords). 
 
