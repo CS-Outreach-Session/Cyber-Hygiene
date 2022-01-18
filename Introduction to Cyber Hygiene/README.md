@@ -37,3 +37,12 @@ The good news is that there are things we can do to improve our Cyber hygien
 # Starter activity on Cyber Hygiene
 * ## [Creating a strong Password - 7 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Introduction%20to%20Cyber%20Hygiene/Creating%20a%20strong%20Password:%20Activity/README.md#creating-a-strong-password-activity-1--5-minutes) 
 * ## Find and delete the scary amount of data Google has on you
+
+# Checking if your email has been a part of a data breach
+One growing concern, in the realm of cyber hygiene is knowing when you've been a part of a data breach. Recently there has been a surge of companies having their databases breached; stealing all the users account details and data. From these details, hackers will use the breached data and attempt to sign into other services with the same details – hence it is important to use different passwords and enable two-factor authentication on all accounts.
+
+The following site will show if your email address has been apart of any data breaches:
+https://haveibeenpwned.com/ 
+* Check to see if any of your email addresses have been a part of data breaches. 
+* If need be, make a note of, or consider changing passwords to any accounts that have been breached and also consider changing the passwords of any accounts that shared those login details.
+
