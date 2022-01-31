@@ -13,7 +13,9 @@ Social engineering techniques include, but are not limited to, Trojan and phishi
 * **Impersonation** There are multiple types of impersonation techniques that a social engineer can use. Attackers often
 conduct impersonation attacks by telephone calling
 
-* **Persuasion and Bribery**   In persuasion attacks, the social engineer will attempt to trick a person through various methods to divulge critical information or assist the attack in some other means
+* **Persuasion and Bribery**   In persuasion attacks, the social engineer will attempt to trick a person through various methods to divulge critical information or assist the attack in some other means.
+
+* **Shoulder Surfing** Shoulder surfing occurs when an attacker peers over an unwary user's shoulder as she enters her user name and password.
 
 # What is Cyber Hygiene ?
 Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe and well-protected, and improve online security. This could involve a routine to ensure identity safety – such as using different passwords for accounts or just a general awareness of potential threats while using technology. 
