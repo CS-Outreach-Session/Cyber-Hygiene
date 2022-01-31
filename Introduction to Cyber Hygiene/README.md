@@ -8,7 +8,7 @@ Social engineering techniques include, but are not limited to, Trojan and phishi
 
 ## Seven ways to recognise Phising email ##
 
-[](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phising_emails.jpeg)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phising_emails.jpeg)
 # What is Cyber Hygiene ?
 Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe and well-protected, and improve online security. This could involve a routine to ensure identity safety – such as using different passwords for accounts or just a general awareness of potential threats while using technology. 
 
