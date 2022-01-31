@@ -10,8 +10,6 @@ Social engineering techniques include, but are not limited to, Trojan and phishi
 
 * **Trojan email or phishing attacks** can be used to collect personal information, system credentials, or even compromise a user's operating system's security by installing malicious backdoor applications that give the attacker complete access to the machine.
 
- ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phising_emails.jpeg)
-
 * **Impersonation** There are multiple types of impersonation techniques that a social engineer can use. Attackers often
 conduct impersonation attacks by telephone calling
 
@@ -19,6 +17,14 @@ conduct impersonation attacks by telephone calling
 
 * **Shoulder Surfing** Shoulder surfing occurs when an attacker peers over an unwary user's shoulder as she enters her user name and password.
 
+ ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phising_emails.jpeg)
+
+other forms signs of email Phising include:
+* Sense of urgency
+* Generic greetings 
+* A call for immediate action
+* Request for you to click on a link
+ 
 ## Key things to know about social enginering ##
 
 * Legit companies don’t request your sensitive information via email
@@ -31,6 +37,14 @@ conduct impersonation attacks by telephone calling
 
 ![SOcial Engineering Activity] () 
 
+## How can I protect myself from phishing attempts? ##
+
+* Don’t send financial information through email.
+* Don’t open suspicious emails
+* Don’t click on pop-up ads
+* Sign up for antivirus protection.
+* Use spam filters.
+* Don’t click on suspicious links in emails
 
 
 
