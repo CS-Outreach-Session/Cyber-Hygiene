@@ -6,7 +6,14 @@ Social engineering is a technique that allows an attacker to get beyond technica
 ## Types of Scoal Engineering ##
 Social engineering techniques include, but are not limited to, Trojan and phishing email messages, impersonation, persuasion, bribery, shoulder surfing, and dumpster diving, among others.
 
+* **Trojan email or phishing attacks** can be used to collect personal information, system credentials, or even compromise a user's operating system's security by installing malicious backdoor applications that give the attacker complete access to the machine.
+
  ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phising_emails.jpeg)
+
+* **Impersonation** There are multiple types of impersonation techniques that a social engineer can use. Attackers often
+conduct impersonation attacks by telephone calling
+
+* **Persuasion and Bribery**   In persuasion attacks, the social engineer will attempt to trick a person through various methods to divulge critical information or assist the attack in some other means
 
 # What is Cyber Hygiene ?
 Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe and well-protected, and improve online security. This could involve a routine to ensure identity safety – such as using different passwords for accounts or just a general awareness of potential threats while using technology. 
