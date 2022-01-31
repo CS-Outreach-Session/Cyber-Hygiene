@@ -1,7 +1,9 @@
 
 # What is Social Engineering ?
 
-Social engineering is a technique that allows an attacker to get beyond technical controls by attacking an organization's human element.
+Social engineering is a technique that allows an attacker to get beyond technical controls by attacking an organization's human element. When successful, a social engineering attack almost always leads to some level of compromise. Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
+
+Cybercriminals frequently target businesses and individuals via emails that appear to come from a genuine bank, government agency, or organisation. The sender of these emails instructs recipients to click on a link that will lead them to a page where they can validate personal information, account information, and other details.
 
 ## Types of Scoal Engineering ##
 Social engineering techniques include, but are not limited to, Trojan and phishing email messages, impersonation, persuasion, bribery, shoulder surfing, and dumpster diving, among others.
@@ -16,6 +18,19 @@ conduct impersonation attacks by telephone calling
 * **Persuasion and Bribery**   In persuasion attacks, the social engineer will attempt to trick a person through various methods to divulge critical information or assist the attack in some other means.
 
 * **Shoulder Surfing** Shoulder surfing occurs when an attacker peers over an unwary user's shoulder as she enters her user name and password.
+
+## Key things to know about social enginering ##
+
+* Legit companies don’t request your sensitive information via email
+* Legit companies usually call you by your name
+* Legit companies have domain emails
+* Legit companies know how to spell
+* Legit companies don’t force you to their website
+* Legit companies don’t send unsolicited attachments
+* Legit company links match legitimate URLs
+
+
+
 
 # What is Cyber Hygiene ?
 Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe and well-protected, and improve online security. This could involve a routine to ensure identity safety – such as using different passwords for accounts or just a general awareness of potential threats while using technology. 
