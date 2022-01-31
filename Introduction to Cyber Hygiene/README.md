@@ -3,12 +3,15 @@ Cyber hygiene is the practice of using computer systems and other technological 
 
 Having good cyber hygiene is important not only to maintain the health of your system to make sure it runs quickly and smoothly but also to protect it from nefarious means such as viruses, malware, and your personal privacy and data. Cyber hygiene is also important to the users to protect accounts from hackers and thieves from accessing your data, social media accounts, or other vital accounts such as banking.
 
+**Online fraud** is negatively affecting the lives of people both financially and psychologically due to the losses victims of such crime are facing. Sometimes victims of online fraud suffered beyond financial loss, by also suffering from depression, frustration, and sometimes even commit suicide
+
 # Common Cyber Hygiene Problems
 * Insufficient education
 * Weak password usage and storage 
-* Cybercriminals Love Online Sharers
+* Cybercriminals love Online Sharers
 * Security breach, attacks from hackers through phishing, hacking, malware, spam, or viruses could cost loss of accounts or data
 * Out of date software, having out of date software 
+
 # What Can We Do To Protect Ourselves?
 The good news is that there are things we can do to improve our Cyber hygien 
 * Employ extra protection across all your devices.
