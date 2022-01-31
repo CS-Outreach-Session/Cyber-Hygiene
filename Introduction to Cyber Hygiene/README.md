@@ -29,6 +29,8 @@ conduct impersonation attacks by telephone calling
 * Legit companies don’t send unsolicited attachments
 * Legit company links match legitimate URLs
 
+![SOcial Engineering Activity] () 
+
 
 
 
