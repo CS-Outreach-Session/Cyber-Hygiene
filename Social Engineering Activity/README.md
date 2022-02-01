@@ -4,19 +4,19 @@ As you read the email, assume you've gotten one similar to it. Consider the foll
 
 Inspect the emails below. Do you think it’s real or a phish? What else would you look for onscreen?
 
-**Email 1 **
+## Email 1 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_example%20.png)
 
-**Email 2 **
+## Email 2 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/paypal-email-fake.gif)
 
-**Email 3 **
+## Email 3 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short.png)
 
-**Email 4 **
+## Email 4 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short2.png)
 
-**Email 5 **
+## Email 5 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short3.png)
 
 
