@@ -1,4 +1,4 @@
-# SOcial Engineering Activity # 
+# Social Engineering Activity # 
 Examine each message to see whether it is genuine or a phishing attempt. 
 
 Inspect the emails below. Do you think it’s real or a phish? What else would you look for onscreen?
