@@ -44,10 +44,11 @@ Students would be required to access a computer system, internet connectivity, a
 *	Viewing recorded data
 
 
-## [Activity 4 - Hack RF One (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
-* Installing GNU Radio Companion and Setting up the work environment
-* Hardware Setup
-* Visualising FM Radio using HackRF One
-* Listening to FM Radio
+## [Activity 4 - Social Engineering (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Social%20Engineering%20Activity)
+* What is Social Engineering ?
+* Types of Scoal Engineering
+* Signs of phising emails 
+* Key things to know about social enginering
+* How can I protect myself from phishing attempts?
 
 ## [Cyberbullying and Online Exploitation (Time: 20 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
