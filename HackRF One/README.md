@@ -44,4 +44,6 @@ other forms signs of email Phising include:
 * Use spam filters.
 * Don’t click on suspicious links in emails
 
-[Activity 1 - Social Engineering (20 minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Social%20Engineering%20Activity)
+### [An activity- Social Engineering 10 minutes ](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Social%20Engineering%20Activity)
+
+
