@@ -17,7 +17,7 @@ conduct impersonation attacks by telephone calling
 
 * **Shoulder Surfing** Shoulder surfing occurs when an attacker peers over an unwary user's shoulder as she enters her user name and password.
 
- ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phising_emails.jpeg)
+ ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Signs%20of%20Phishing%20Email.png)
 
 other forms signs of email Phising include:
 * Sense of urgency
