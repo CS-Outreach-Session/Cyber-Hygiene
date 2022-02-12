@@ -51,4 +51,4 @@ Students would be required to access a computer system, internet connectivity, a
 * Key things to know about social enginering
 * How can I protect myself from phishing attempts?
 
-## [Cyberbullying and Online Exploitation (Time: 20 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
+## [Activity 5 - Cyberbullying and Online Exploitation (Time: 20 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
