@@ -12,7 +12,7 @@ Inspect the emails below. Do you think it’s real or a phish? What else would y
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Phsing%20email_Miami.png)
 
 ## Email 3 ##
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short.png)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phishing-example-7.png)
 
 ## Email 4 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phishing-email-examples-google-forms.png)
