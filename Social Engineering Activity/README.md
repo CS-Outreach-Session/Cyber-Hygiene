@@ -5,7 +5,7 @@
 Inspect the emails below. Do you think it’s real or a phish? What else would you look for onscreen?
 
 ## Email 1 ##
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Face_Book_email_screen_short3.png)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/examples-of-phishing-emails-netflix.png)
 
 
 ## Email 2 ##
