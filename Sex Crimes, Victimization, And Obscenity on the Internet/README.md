@@ -20,7 +20,8 @@
 * When could action have been taken to stop the chain of events?
 * What can people do who are victims of cyberbullying? 
 
-[Paddlet - Password - xyz](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr)
+Use this [Paddlet link](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr) to write your answers for these questions. The password for the link is xyz
+To write on the paddlet you may need to click on the + button.
 
 ## Tips 
 * Anyone who makes threats against you on the internet may be breaking the law. Using the phone system, which includes the internet, to cause alarm or distress is illegal in the United Kingdom.
