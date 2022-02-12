@@ -29,7 +29,7 @@ Students would be required to access a computer system, internet connectivity, a
   * Starter activity on Cyber Hygiene
 
   
-## [Activity 2 - USB Threats: Practicing Keystroke Injection (40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
+## [Activity 2 - USB Threats: Practicing Keystroke Injection (30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
  * Rubber Ducky Parts
 * Writing your duckyScript
 * Exercises
@@ -37,18 +37,18 @@ Students would be required to access a computer system, internet connectivity, a
   - Exploit Scripts - Malicious code injection attack
 
 
-## [Activity 3 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro (40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
+## [Activity 3 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro (30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
 *	AirDrive Forensic Keylogger Pro – USB
 *	Setting up Forensic Keylogger Pro – USB
 *	Configurations
 *	Viewing recorded data
 
 
-## [Activity 4 - Social Engineering (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+## [Activity 4 - Social Engineering (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
 * What is Social Engineering ?
 * Types of Scoal Engineering
 * Signs of phising emails 
 * Key things to know about social enginering
 * How can I protect myself from phishing attempts?
 
-## [Activity 5 - Cyberbullying and Online Exploitation (Time: 20 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
+## [Activity 5 - Cyberbullying and Online Exploitation (Time: 30 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
