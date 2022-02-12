@@ -26,7 +26,7 @@ To begin coding writing your script complete the following tasks:
 * 1. Open the [Duck code encoder page](https://ducktoolkit.com/encode)
 * 2. Type or copy the script 1 into the box and then press encode the payload  as indicated in the Figure below and click on encode payload. You can copy the script from this [file](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript%20Script%201%20%E2%80%93%20Printing%20Hello%20World!!!)
 
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Duck_toolkit.PNG)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Screenshot_rubber_duccky%20.png)
 
 * 3. Download the inject.bin file. You will notice that you cannot open or read the Bin file, but the Rubber Ducky uses this file type to execute payloads. Although this is the easiest way to encode your files, there are other ways, such as for example via the command console by downloading the standard encoder at usbrubberducky.com.
 * 5. Once you’ve downloaded the inject.bin file, copy it into the SD card via the Micro SD card reader. 
