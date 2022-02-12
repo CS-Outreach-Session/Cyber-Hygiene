@@ -44,7 +44,7 @@ Repeat the above i - vi steps to execute script 2 as illustrated in the followin
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Screenshot%202022-02-12%20145710.png)
 
-# Exercises
+# Exercise
 Penetration testers use more complex scripts to explore (reconnaissance) or perform Keystroke Injection attacks to test a target's security posture. Use the following scripts to observe and comment on the effects of the attacks. Repeat the above i - vi steps to execute the following scripts.
   1. What can you observe by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) ?
   2. What can you observe by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) ?
