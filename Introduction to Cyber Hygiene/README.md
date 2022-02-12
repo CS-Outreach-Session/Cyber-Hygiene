@@ -62,7 +62,7 @@ Millions of passwords were compiled into a dataset to discover the top 200 most 
 ## Activity 1 - How secure is my password?## 
 Aim - to learn which password combinations are the hardest to guess or crack.
 
-* Launch [](https://www.security.org/how-secure-is-my-password/) 
+* Launch [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) 
 * Enter a password of your choice to see the result.
 * Begin to use increasingly complex passwords (length and variation of characters) and see how the time frame changes. 
 * For example, try the following passwords:
