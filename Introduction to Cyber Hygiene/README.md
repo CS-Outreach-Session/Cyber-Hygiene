@@ -37,6 +37,7 @@ The good news is that there are things we can do to improve our Cyber hygien
 
 * Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
 
+# Strong Password#
 Millions of passwords were compiled into a dataset to discover the top 200 most often used passwords worldwide in 2021 by a password management service [NordPass](https://nordpass.com/most-common-passwords-list/).
 
 ## Findings ##
