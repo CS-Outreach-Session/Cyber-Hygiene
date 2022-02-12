@@ -10,19 +10,19 @@
 * Harassment - Act of sending offensive, rude, and insulting messages and being abusive. E.g., Nasty or humiliating comments on posts, photos and videos on social media sites, chat rooms and gaming sites.
 
 * Bullying by spreading rumours and gossip -  Vicious gossip and rumours or posting false and malicious things about people on the internet .
-
 * Impersonation –When someone hacks into another person's email or social media account and uses that person's online identity to send or post hateful or embarrassing stuff to/about others. They may even create fictitious accounts in order to cause pain and embarrassment.
-
 * Cyber Stalking – Sending frequent communications containing threats of harm, harassment, or intimidating remarks, or engaging in other online behaviours that make a person fear for their safety. Depending on what they are doing, their acts may also be criminal.
-
 * Outing and Trickery - This is when someone may divulge personal information about another individual or deceive someone into divulging secrets that they then pass on to others. They could also do this with personal photos and videos.
 
+Read about [Megan Meier story] (http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier) (5 minutes)
+
 ## Activity on cyberbullying
+* What can been done to prevent these kind of cyberbullying incidents from taking place? 
+* When could action have been taken to stop the chain of events?
+* What can people do who are victims of cyberbullying? 
 
-### Tips 
-
+## Tips 
 * Anyone who makes threats against you on the internet may be breaking the law. Using the phone system, which includes the internet, to cause alarm or distress is illegal in the United Kingdom.
-
 * If you make derogatory remarks about someone online or convey threats, the authorities can easily track you out. Your internet service provider keeps an electronic record of every time you visit a website or make a posting.
 
 
