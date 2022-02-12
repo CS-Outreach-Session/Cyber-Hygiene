@@ -1,6 +1,6 @@
 # Cyberbullying and Online Exploitation 
 
-## Cyberbullying
+# Cyberbullying
 * Cyberbullying is any sort of bullying that occurs online or on mobile devices such as smartphones and tablets. 
 * Cyberbullying is rife on the internet and most young people will experience it or see it at some time.
 * A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
@@ -14,7 +14,7 @@ Use the following link to respond to the following [questions](https://ysj.onlin
 Q. Which of the above Cyberbullying did you experienced?
 SQ. What did you do about it?
 
-Activity 4.2 
+## Activity 4.2 ##
 ## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
 
 * What can been done to prevent these kind of cyberbullying incidents from taking place? 
@@ -28,20 +28,20 @@ Use this [Paddlet link](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr) to w
 * If you make derogatory remarks about someone online or convey threats, the authorities can easily track you out. Your internet service provider keeps an electronic record of every time you visit a website or make a posting.
 
 
-## Online Exploitation: Sex Crimes, Victimization, and Obscenity on the Internet 
+# Online Exploitation: Sex Crimes, Victimization, and Obscenity on the Internet 
 * A variety of victimizations can occur online, many that are similar to their real-world counterparts. 
 * In particular, the nature of the victimizations included:
   - threats:
   - obscene comments and intimations,
-  - and exposure to obscene and threatening materials, including pictures and other media.
+  - and exposure to obscene and threatening materials, including pictures and other media
   - body shaming, etc. 
 
 * The exploitation of people for sexual and other purposes is nothing new; however the use of the Internet to facilitate these crimes is a recent phenomenon. 
-
 * Most often, **children** and **women** are the primary targets of those who would commit cyberstalking and exploitation over the Internet through Child pornography, sex tourism, and online dating scams.
 
-* Nature of Exploitation on the Internet 
-* Nature of online victimization of young people include: Sexual solicitations and approaches, Body shamming, Aggressive sexual solicitation, Unwanted exposure to sexual material, Harassment, Distressing incidents. 
+## Nature of online victimization on the Internet 
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Nature_of_online_victmization%20.png)
+
 * Key findings on online victimization of young people:
    - [According to the data of National Statistics on Children's online behaviour in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/childrensonlinebehaviourinenglandandwales/yearendingmarch2020#toc) 
 1. Almost 9 in 10 children (89%) aged 10 to 15 years said they went online every day.
