@@ -37,6 +37,45 @@ The good news is that there are things we can do to improve our Cyber hygien
 
 * Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
 
+Millions of passwords were compiled into a dataset to discover the top 200 most often used passwords worldwide in 2021 by a password management service [NordPass](https://nordpass.com/most-common-passwords-list/).
+
+## Findings ##
+1. List of top 10 most common passwords globally are: 
+* 123456
+* 123456789
+* 12345
+* qwerty
+* password
+* 12345678
+* 111111
+* 123123
+* 1234567890
+* 1234567
+
+2. Password choices are often attached to cultural references. For example, 
+* In the UK, “liverpool” was the third most popular password, with 224,160 hits
+* In Chile,the name of Chilean football club “colocolo” was used by 15,748 people - making it the fifth most common choice
+* “christ” was the 19th most common password used in Nigeria, used 7,169 times
+* “bismillah”, an Arabic phrase meaning in the name of Allah, was used by 1,599 people in Saudi Arabia – the 30th most common choice.
+
+
+## Activity 1 - How secure is my password?## 
+Aim - to learn which password combinations are the hardest to guess or crack.
+
+* Launch [](https://www.security.org/how-secure-is-my-password/) 
+* Enter a password of your choice to see the result.
+* Begin to use increasingly complex passwords (length and variation of characters) and see how the time frame changes. 
+* For example, try the following passwords:
+   - chocolate
+   - chocolatemilkshake
+   - Ch0c0l@t3
+   - Ch0c0l@t3M1lksh@k3!
+
+Secure passwords are difficult for others to guess or for computers intended for this purpose to crack.
+
+Password's cracking entails a computer doing a brute force attack on a large number of password combinations until it discovers the one that is your password. Passwords that are simple and widely used are easily cracked.
+
+
 # Starter activity on Cyber Hygiene
 * ## [Creating a strong Password - 7 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Introduction%20to%20Cyber%20Hygiene/Creating%20a%20strong%20Password:%20Activity/README.md#creating-a-strong-password-activity-1--5-minutes) 
 * ## Find and delete the scary amount of data Google has on you
