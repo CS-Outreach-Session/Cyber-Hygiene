@@ -54,7 +54,8 @@ Penetration testers use more complex scripts to explore (reconnaissance) or perf
   * What can you observe by executing the [duckyscript5](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyscript5-Malicious%20code%20injection%20attack) ?
 
 
-# You dont' have to try this #
+# You dont' have to try this - Example Reverse-Shell #
+
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Dont%20try%20this%20.png)
 
 # Take home #
