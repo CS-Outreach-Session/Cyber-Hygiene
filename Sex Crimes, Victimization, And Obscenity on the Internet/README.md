@@ -6,7 +6,7 @@
 * A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
 *  Nearly three out of four children (72%) who experienced an online bullying behaviour in the previous 12 months experienced at least some of it at school or [during school time](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/onlinebullyinginenglandandwales/yearendingmarch2020#bullying-and-school)
 
-[Types of cyberbullying](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Types%20of%20cyberbullying%20.png)
+[](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Types%20of%20cyberbullying%20.png)
 
 
 ## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
