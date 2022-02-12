@@ -18,7 +18,8 @@ There are three main parts that come with the Rubber Ducky that you’ll be usin
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/usbRubberD.PNG)
 To utilise the USB Rubber Ducky, you need to assemble the Ducky pack a Miro SD Card reader as indicated in the above Figure.
 
-## Writing your duckyScript
+# Writing your duckyScript #
+## Using rubber ducky to display "  You have been hacked " on a victims' computer ##
 The sduckyScript is a simple scripting language for automating keypresses. It was originally developed for USB Rubber Ducky. It can be programmed in any ASCII text editor such as notepad, gedit nano, vo, emacs etc. Each command resides on a new line and may have the following options. Commands are written in ALL CAPS.
 
 
@@ -35,6 +36,7 @@ To begin coding writing your script complete the following tasks:
 
 Congratulations! You have just executed your first script.
 
+## Using Rubber ducky to turn off Windows defender on a victims computer ##
 Repeat the above i - vi steps to execute script 2 as illustrated in the following Figure. You can copy the script from this [file.](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript2-%20Printing%20you%20have%20been%20hacked') 
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Screenshot%202022-02-12%20145710.png)
