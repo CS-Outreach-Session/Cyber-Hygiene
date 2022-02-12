@@ -8,10 +8,15 @@
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Types%20of%20cyberbullying%20.png)
 
+## Activity 4.1 ##
+Use the following link to respond to the following [questions](https://ysj.onlinesurveys.ac.uk/cyberbullying)
 
+Q. Which of the above Cyberbullying did you experienced?
+SQ. What did you do about it?
+
+Activity 4.2 
 ## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
 
-## Activity on cyberbullying
 * What can been done to prevent these kind of cyberbullying incidents from taking place? 
 * When could action have been taken to stop the chain of events?
 * What can people do who are victims of cyberbullying? 
