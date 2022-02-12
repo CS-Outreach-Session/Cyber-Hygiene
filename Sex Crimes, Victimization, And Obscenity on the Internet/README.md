@@ -11,12 +11,11 @@
 ## Activity 4.1 ##
 Use the following link to respond to the following [questions](https://ysj.onlinesurveys.ac.uk/cyberbullying)
 
-Q. Which of the above Cyberbullying did you experienced?
-SQ. What did you do about it?
+* Q. Which of the above Cyberbullying did you experienced?
+* SQ. What did you do about it?
 
 ## Activity 4.2 ##
-## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
-
+### Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
 * What can been done to prevent these kind of cyberbullying incidents from taking place? 
 * When could action have been taken to stop the chain of events?
 * What can people do who are victims of cyberbullying? 
@@ -44,6 +43,7 @@ Use this [Paddlet link](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr) to w
 
 * Key findings on online victimization of young people:
    - [According to the data of National Statistics on Children's online behaviour in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/childrensonlinebehaviourinenglandandwales/yearendingmarch2020#toc) 
+   
 1. Almost 9 in 10 children (89%) aged 10 to 15 years said they went online every day.
 2. Around one in six children (17%) aged 10 to 15 years spoke with someone they had never met before
 3. An estimated 11% of children aged 13 to 15 years stated that they had received a sexual message in the previous 12 months 4. An estimated 69% of children who received sexual messages received them in the form of
@@ -75,6 +75,6 @@ Finding help
 * If you are worried about online sexual abuse or the way someone has been communicating with you online you can also report [Child Exploitation and Online Protection command](https://www.ceop.police.uk/Safety-Centre/)
 * If you are not in immediate danger but you are still concerned that you might be in danger or in risk of being in danger, you can contact:
 
-your local child protection services
+
 
 
