@@ -94,7 +94,7 @@ The following site will show if your email address has been apart of any data br
 * If need be, make a note of, or consider changing passwords to any accounts that have been breached and also consider changing the passwords of any accounts that shared those login details.
 * In the future, always consider enabling two-factor authentication and use different passwords for each account (perhaps consider a password manage to remember and create many strong passwords). 
 
-# Take home#
+# Take home #
 
 * Secure passwords are difficult for others to guess or for computers intended for this purpose to crack.
 
