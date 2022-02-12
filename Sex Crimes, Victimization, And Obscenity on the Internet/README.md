@@ -6,12 +6,8 @@
 * A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
 *  Nearly three out of four children (72%) who experienced an online bullying behaviour in the previous 12 months experienced at least some of it at school or [during school time](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/onlinebullyinginenglandandwales/yearendingmarch2020#bullying-and-school)
 
-### Types of cyberbullying
-* Harassment - Act of sending offensive, rude, and insulting messages and being abusive. E.g., Nasty or humiliating comments on posts, photos and videos on social media sites, chat rooms and gaming sites.
-* Bullying by spreading rumours and gossip -  Vicious gossip and rumours or posting false and malicious things about people on the internet .
-* Impersonation –When someone hacks into another person's email or social media account and uses that person's online identity to send or post hateful or embarrassing stuff to/about others. They may even create fictitious accounts in order to cause pain and embarrassment.
-* Cyber Stalking – Sending frequent communications containing threats of harm, harassment, or intimidating remarks, or engaging in other online behaviours that make a person fear for their safety. Depending on what they are doing, their acts may also be criminal.
-* Outing and Trickery - This is when someone may divulge personal information about another individual or deceive someone into divulging secrets that they then pass on to others. They could also do this with personal photos and videos.
+[Types of cyberbullying](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Types%20of%20cyberbullying%20.png)
+
 
 ## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
 
