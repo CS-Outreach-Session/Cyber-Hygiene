@@ -52,7 +52,12 @@ Penetration testers use more complex scripts to explore (reconnaissance) or perf
 ## Exploit Scripts -  Malicious code injection 
 * A malicious code attack is a foundational tool used to carry out most cybersecurity attacks to create or exploit computer vulnerabilities. Hackers use this attack method to cause unwanted changes, damage, or spread malware into the computer system. In this exercise, you will practice executing code injection attacks by plugging a USB into a computer system. The script you are to run is safe, thus, no need to panic.  Repeat the above i - vi steps to execute the following scripts:
   * What can you observe by executing the [duckyscript5](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyscript5-Malicious%20code%20injection%20attack) ?
-# Take home
+
+
+# You dont' have to try this #
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Dont%20try%20this%20.png)
+
+# Take home #
 The USB Rubber Ducky can be used to infect any computer it's plugged into with ransomware once the SD card is loaded. While this is a simulation, identical approaches might be used by a real attacker. You prevent yourself from these types of attacks by always taking reasonable precautions when leaving your computer unattended. Never leave your computer unattended without first securing it, and never use USB drives that you don't recognise.
 
 Many businesses expose USB ports to clients and visitors, and receptionists and other office workers frequently leave their workstations unattended. These kinds of errors might result in crucial corporate data being destroyed or held hostage. It's crucial to keep in mind.
