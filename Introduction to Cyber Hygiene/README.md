@@ -40,6 +40,9 @@ The good news is that there are things we can do to improve our Cyber hygien
 # Strong Password#
 Millions of passwords were compiled into a dataset to discover the top 200 most often used passwords worldwide in 2021 by a password management service [NordPass](https://nordpass.com/most-common-passwords-list/).
 
+* Secure passwords are difficult for others to guess or for computers intended for this purpose to crack.
+* Password's cracking entails a computer doing a brute force attack on a large number of password combinations until it discovers the one that is your password. Passwords that are simple and widely used are easily cracked.
+
 ## Findings ##
 1. List of top 10 most common passwords globally are: 
 * 123456
@@ -89,15 +92,12 @@ Based on this activity, do you see the need to change your password?
 
 Sometimes your own secuirty can only do so much. One growing concern, in the realm of cyber hygiene, is more and more companies have had their databases breached; stealing all their userbases account details and data. From these details, hackers will use the breached data and attempt to sign into other services using the same details (hoping users will use the same details for multiple accounts) – hence it is important to use different passwords and enable two-factor authentication on all accounts.
 
-The following site will show if your email address has been apart of any data breaches: https://haveibeenpwned.com/ 
+The following site will show if your email address has been apart of any [data breaches](https://haveibeenpwned.com/) 
 * Simply type your email address in and click the 'pwned?' key to check if any of your email addresses have been a part of data breaches. 
 * If need be, make a note of, or consider changing passwords to any accounts that have been breached and also consider changing the passwords of any accounts that shared those login details.
 * In the future, always consider enabling two-factor authentication and use different passwords for each account (perhaps consider a password manage to remember and create many strong passwords). 
 
-# Take home #
 
-* Secure passwords are difficult for others to guess or for computers intended for this purpose to crack.
 
-* Password's cracking entails a computer doing a brute force attack on a large number of password combinations until it discovers the one that is your password. Passwords that are simple and widely used are easily cracked.
 
 
