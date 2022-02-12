@@ -62,7 +62,7 @@ Millions of passwords were compiled into a dataset to discover the top 200 most 
 ## Activity 1 - How secure is my password?## 
 Aim - to learn which password combinations are the hardest to guess or crack.
 
-* Launch [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) 
+* Launch this site to see [How Secure is your Password?](https://www.security.org/how-secure-is-my-password/) 
 * Enter a password of your choice to see the result.
 * Begin to use increasingly complex passwords (length and variation of characters) and see how the time frame changes. 
 * For example, try the following passwords:
@@ -70,21 +70,33 @@ Aim - to learn which password combinations are the hardest to guess or crack.
    - chocolatemilkshake
    - Ch0c0l@t3
    - Ch0c0l@t3M1lksh@k3!
+   
+Based on this activity, do you see the need to change your password? 
 
-Secure passwords are difficult for others to guess or for computers intended for this purpose to crack.
+## Activity 2 - Design the strongest passphrase ##
 
-Password's cracking entails a computer doing a brute force attack on a large number of password combinations until it discovers the one that is your password. Passwords that are simple and widely used are easily cracked.
+* Write an easy-to-remember statement. This could be a lyric from a song or a scene from a movie, a narrative about a place you've visited, or any other phrase you recall. See the following example.
+  - The cat is Milo and the dog is Otis
+  - Now, take the first letter from each word to make your password (including capitalisation). E.g. TciMatdiO
+  - Change the letters to numbers and symbols where possible. E.g. Tc1M&td10
+  - You Can also add a symbol on the end for extra length and complexity. E.g. Tc1M&td10!
+
+* Use the link [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) to see how secure the password you created is? 
 
 
-# Starter activity on Cyber Hygiene
-* ## [Creating a strong Password - 7 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Introduction%20to%20Cyber%20Hygiene/Creating%20a%20strong%20Password:%20Activity/README.md#creating-a-strong-password-activity-1--5-minutes) 
-* ## Find and delete the scary amount of data Google has on you
+## Activity 3- Checking if your email has been a part of a data breach ##
 
-# Checking if your email has been a part of a data breach
 Sometimes your own secuirty can only do so much. One growing concern, in the realm of cyber hygiene, is more and more companies have had their databases breached; stealing all their userbases account details and data. From these details, hackers will use the breached data and attempt to sign into other services using the same details (hoping users will use the same details for multiple accounts) – hence it is important to use different passwords and enable two-factor authentication on all accounts.
 
 The following site will show if your email address has been apart of any data breaches: https://haveibeenpwned.com/ 
 * Simply type your email address in and click the 'pwned?' key to check if any of your email addresses have been a part of data breaches. 
 * If need be, make a note of, or consider changing passwords to any accounts that have been breached and also consider changing the passwords of any accounts that shared those login details.
 * In the future, always consider enabling two-factor authentication and use different passwords for each account (perhaps consider a password manage to remember and create many strong passwords). 
+
+# Take home#
+
+* Secure passwords are difficult for others to guess or for computers intended for this purpose to crack.
+
+* Password's cracking entails a computer doing a brute force attack on a large number of password combinations until it discovers the one that is your password. Passwords that are simple and widely used are easily cracked.
+
 
