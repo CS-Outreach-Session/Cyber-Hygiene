@@ -13,7 +13,7 @@
 * Cyber Stalking – Sending frequent communications containing threats of harm, harassment, or intimidating remarks, or engaging in other online behaviours that make a person fear for their safety. Depending on what they are doing, their acts may also be criminal.
 * Outing and Trickery - This is when someone may divulge personal information about another individual or deceive someone into divulging secrets that they then pass on to others. They could also do this with personal photos and videos.
 
-## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier) (5 minutes)
+## Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
 
 ## Activity on cyberbullying
 * What can been done to prevent these kind of cyberbullying incidents from taking place? 
