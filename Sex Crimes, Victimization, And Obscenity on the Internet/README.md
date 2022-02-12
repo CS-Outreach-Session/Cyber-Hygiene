@@ -20,8 +20,7 @@
 * When could action have been taken to stop the chain of events?
 * What can people do who are victims of cyberbullying? 
 
-Use this [Paddlet link](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr) to write your answers for these questions. The password for the link is xyz
-To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
+Use this [Paddlet link](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr) to write your answers for these questions. The password for the link is xyz. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
 ## Tips 
 * Anyone who makes threats against you on the internet may be breaking the law. Using the phone system, which includes the internet, to cause alarm or distress is illegal in the United Kingdom.
@@ -42,7 +41,6 @@ To write on the paddlet you may need to click on the + button or double click an
 
 * Nature of Exploitation on the Internet 
 * Nature of online victimization of young people include: Sexual solicitations and approaches, Body shamming, Aggressive sexual solicitation, Unwanted exposure to sexual material, Harassment, Distressing incidents. 
-* 
 * Key findings on online victimization of young people:
    - [According to the data of National Statistics on Children's online behaviour in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/childrensonlinebehaviourinenglandandwales/yearendingmarch2020#toc) 
 1. Almost 9 in 10 children (89%) aged 10 to 15 years said they went online every day.
