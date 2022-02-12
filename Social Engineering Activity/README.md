@@ -9,7 +9,7 @@ Inspect the emails below. Do you think it’s real or a phish? What else would y
 
 
 ## Email 2 ##
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Face_Book_email_screen_short4.png)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Phsing%20email_Miami.png)
 
 ## Email 3 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short.png)
