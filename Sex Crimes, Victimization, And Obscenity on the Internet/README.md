@@ -5,10 +5,9 @@
 * Cyberbullying is rife on the internet and most young people will experience it or see it at some time.
 * A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
 *  Nearly three out of four children (72%) who experienced an online bullying behaviour in the previous 12 months experienced at least some of it at school or [during school time](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/onlinebullyinginenglandandwales/yearendingmarch2020#bullying-and-school)
-* 
+
 ### Types of cyberbullying
 * Harassment - Act of sending offensive, rude, and insulting messages and being abusive. E.g., Nasty or humiliating comments on posts, photos and videos on social media sites, chat rooms and gaming sites.
-
 * Bullying by spreading rumours and gossip -  Vicious gossip and rumours or posting false and malicious things about people on the internet .
 * Impersonation –When someone hacks into another person's email or social media account and uses that person's online identity to send or post hateful or embarrassing stuff to/about others. They may even create fictitious accounts in order to cause pain and embarrassment.
 * Cyber Stalking – Sending frequent communications containing threats of harm, harassment, or intimidating remarks, or engaging in other online behaviours that make a person fear for their safety. Depending on what they are doing, their acts may also be criminal.
@@ -20,6 +19,8 @@
 * What can been done to prevent these kind of cyberbullying incidents from taking place? 
 * When could action have been taken to stop the chain of events?
 * What can people do who are victims of cyberbullying? 
+
+[Paddlet - Password - xyz](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr)
 
 ## Tips 
 * Anyone who makes threats against you on the internet may be breaking the law. Using the phone system, which includes the internet, to cause alarm or distress is illegal in the United Kingdom.
