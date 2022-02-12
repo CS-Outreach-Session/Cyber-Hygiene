@@ -15,7 +15,7 @@ Inspect the emails below. Do you think it’s real or a phish? What else would y
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short.png)
 
 ## Email 4 ##
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short2.png)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phishing-email-examples-google-forms.png)
 
 ## Email 5 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short3.png)
