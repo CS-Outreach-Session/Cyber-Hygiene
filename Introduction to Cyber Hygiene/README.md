@@ -63,7 +63,7 @@ Millions of passwords were compiled into a dataset to discover the top 200 most 
 * “bismillah”, an Arabic phrase meaning in the name of Allah, was used by 1,599 people in Saudi Arabia – the 30th most common choice.
 
 
-## Activity 1.1 - How secure is my password?## 
+## Activity 1.1 - How secure is my password? ## 
 Aim - to learn which password combinations are the hardest to guess or crack.
 
 * Launch this site to see [How Secure is your Password?](https://www.security.org/how-secure-is-my-password/) 
