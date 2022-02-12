@@ -21,4 +21,4 @@ Inspect the emails below. Do you think it’s real or a phish? What else would y
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/email_screen_short3.png)
 
 ## Email 6 ##
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/paypal-email-fake.gif)
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/phishing-email-examples-american-express.png)
