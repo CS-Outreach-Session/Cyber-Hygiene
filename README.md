@@ -44,7 +44,7 @@ Students would be required to access a computer system, internet connectivity, a
 *	Viewing recorded data
 
 
-## [Activity 4 - Social Engineering (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Social%20Engineering%20Activity)
+## [Activity 4 - Social Engineering (Time: 40 Minutes)](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
 * What is Social Engineering ?
 * Types of Scoal Engineering
 * Signs of phising emails 
