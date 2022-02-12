@@ -4,7 +4,10 @@ A Keystroke Injection Attack has been an issue for computer users for a long tim
 With the use of a specially designed USB device (the Rubber Ducky), often disguised as a thumb drive, that automatically runs code on any host computer into which it is plugged. 
 Hackers commonly use a keystroke injection attack to execute malicious commands via a USB drive connected to a host computer. 
 
-In this activity, you will implement a simple form of USB keystroke injection attacks. The Rubber Ducky uses a simple coding language called Ducky Script language, that when inserted into a computer, acts as a programmable keyboard executing a payload script that has been programmed into the device. 
+In this activity, you will implement a simple form of USB keystroke injection attacks. The Rubber Ducky uses a simple coding language called Ducky Script language, that when inserted into a computer, acts as a programmable keyboard executing a payload script that has been programmed into the device. #
+
+A malicious code attack is a foundational tool used to carry out most cybersecurity attacks to create or exploit computer vulnerabilities. Hackers use this attack method to cause unwanted changes, damage, or spread malware into the computer system. In this exercise, you will practice executing code injection attacks by plugging a USB into a computer system. The script you are to run is safe, thus, no need to panic.  :
+
 ## Hardware for the activity - USB Rubber Ducky
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/rubber-ducky-usb-full-kit.jpg)
 ## Rubber Ducky Parts
@@ -42,16 +45,14 @@ Repeat the above i - vi steps to execute script 2 as illustrated in the followin
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Screenshot%202022-02-12%20145710.png)
 
 # Exercises
-Penetration testers use more complex scripts to explore (reconnaissance) or perform Keystroke Injection attacks to test a target's security posture. Use the following scripts to observe and comment on the effects of the attacks.
+Penetration testers use more complex scripts to explore (reconnaissance) or perform Keystroke Injection attacks to test a target's security posture. Use the following scripts to observe and comment on the effects of the attacks. Repeat the above i - vi steps to execute the following scripts.
+  1. What can you observe by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) ?
+  2. What can you observe by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) ?
+  3. What can you observe by executing the [duckyscript5](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyscript5-Malicious%20code%20injection%20attack) ?
+  4. What can you observe by executing the [duckyscript6](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript6)
+  
 
-## Reconnaissance Scripts
-* In the context of cyber security, reconnaissance is the practice of covertly discovering and collecting information about a system. This method is often used in ethical hacking or penetration testing. Repeat the above i - vi steps to execute the following scripts:
 
-  * What kind of information about a user can you gather by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) ?
-  * What kind of infromation about a network can you gather by executing the [duckyscript4](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript4) ?
-## Exploit Scripts -  Malicious code injection 
-* A malicious code attack is a foundational tool used to carry out most cybersecurity attacks to create or exploit computer vulnerabilities. Hackers use this attack method to cause unwanted changes, damage, or spread malware into the computer system. In this exercise, you will practice executing code injection attacks by plugging a USB into a computer system. The script you are to run is safe, thus, no need to panic.  Repeat the above i - vi steps to execute the following scripts:
-  * What can you observe by executing the [duckyscript5](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyscript5-Malicious%20code%20injection%20attack) ?
 
 
 # You dont' have to try this - Example Reverse-Shell #
