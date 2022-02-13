@@ -41,6 +41,7 @@ Use this [Paddlet link](https://yorksj.padlet.org/ausman3/33jfqcsy4o45z2cr) to w
 ## Nature of online victimization on the Internet 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Nature_of_online_victmization%20.png)
 
+
 * Key findings on online victimization of young people:
    - [According to the data of National Statistics on Children's online behaviour in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/childrensonlinebehaviourinenglandandwales/yearendingmarch2020#toc) 
    
