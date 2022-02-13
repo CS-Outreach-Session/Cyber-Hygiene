@@ -56,7 +56,7 @@ Millions of passwords were compiled into a dataset to discover the top 200 most 
 * 1234567890
 * 1234567
 
-2. Password choices are often attached to cultural references. For example, 
+2. Password choices are often attached to cultural preferences. For example, 
 * In the UK, “liverpool” was the third most popular password, with 224,160 hits
 * In Chile,the name of Chilean football club “colocolo” was used by 15,748 people - making it the fifth most common choice
 * “christ” was the 19th most common password used in Nigeria, used 7,169 times
