@@ -10,7 +10,10 @@ Having good cyber hygiene is important not only to maintain the health of your s
 * Weak password usage and storage 
 * Cybercriminals love Online Sharers
 * Security breach, attacks from hackers through phishing, hacking, malware, spam, or viruses could cost loss of accounts or data
-* Out of date software, having out of date software 
+* having out of date software 
+
+## Activity 1.1 What other Cyber Hygiene Problems can you think of?
+Use this Paddlet link to write your answers for the question. The password for the link is xyz. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
 # What Can We Do To Protect Ourselves?
 The good news is that there are things we can do to improve our Cyber hygien 
@@ -44,7 +47,9 @@ Millions of passwords were compiled into a dataset to discover the top 200 most 
 * Password's cracking entails a computer doing a brute force attack on a large number of password combinations until it discovers the one that is your password. Passwords that are simple and widely used are easily cracked.
 
 ## Findings ##
-1. List of top 10 most common passwords globally are: 
+Accoeding to [NordPass](https://nordpass.com/most-common-passwords-list/) 2021 report.
+
+1. Most common passwords globally are: 
 * 123456
 * 123456789
 * 12345
@@ -56,7 +61,8 @@ Millions of passwords were compiled into a dataset to discover the top 200 most 
 * 1234567890
 * 1234567
 
-2. Password choices are often attached to cultural preferences. For example, 
+2. Password choices are often attached to cultural preferences. For example,
+ 
 * In the UK, “liverpool” was the third most popular password, with 224,160 hits
 * In Chile,the name of Chilean football club “colocolo” was used by 15,748 people - making it the fifth most common choice
 * “christ” was the 19th most common password used in Nigeria, used 7,169 times
