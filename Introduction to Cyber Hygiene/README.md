@@ -82,14 +82,14 @@ Aim - to learn which password combinations are the hardest to guess or crack.
    
 Based on this activity, and internet search use the [Paddlet link](https://yorksj.padlet.org/ausman3/jewean593fvgbgqu) to post your answers to the following questions. The password for the Paddlet is mYdOGISBigenough@89.
 
-i. Strong passwords can be difficult to remember. What can you do to avoid forgetting them?
-ii. When it’s time to change your password, what’s the best way to choose a new one?
-iii. How long would it take an attacker to crack a 10 character password?
-iv. Now that you are an expert, choose the strongest password from this list:
-* A. Monkey2
-* B. M0nk3y1
-* C. ThEM(12)nkEy~Eats@BAnEnahs
-* D. Th3 m0nk3y 3475 b4n4n4s
+* i. Strong passwords can be difficult to remember. What can you do to avoid forgetting them?
+* ii. When it’s time to change your password, what’s the best way to choose a new one?
+* iii. How long would it take an attacker to crack a 10 character password?
+* iv. Now that you are an expert, choose the strongest password from this list:
+  - A. Monkey2
+  - B. M0nk3y1
+  - C. ThEM(12)nkEy~Eats@BAnEnahs
+  - D. Th3 m0nk3y 3475 b4n4n4s
 
 ## Activity 1.2 - Design the strongest passphrase ##
 
