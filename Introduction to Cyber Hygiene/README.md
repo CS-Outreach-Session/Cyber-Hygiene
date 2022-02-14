@@ -80,7 +80,7 @@ Aim - to learn which password combinations are the hardest to guess or crack.
    - Ch0c0l@t3
    - Ch0c0l@t3M1lksh@k3!
    
-Based on this activity, and internet search use the [Paddlet link](https://yorksj.padlet.org/ausman3/jewean593fvgbgqu) to post your answers to the following questions. The password for the Paddlet is mYdOGISBigenough@89.
+Use the [Paddlet link](https://yorksj.padlet.org/ausman3/jewean593fvgbgqu) to post your answers to the following questions. The password for the Paddlet is mYdOGISBigenough@89.
 
 * i. Strong passwords can be difficult to remember. What can you do to avoid forgetting them?
 * ii. When it’s time to change your password, what’s the best way to choose a new one?
