@@ -1,4 +1,4 @@
-# What is Cyber Hygiene - 30 minutes?
+# What is Cyber Hygiene ?
 Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe, well-protected, and improve online security. This could involve a routine to ensure identity safety – such as using different passwords for each account or just having a general awareness of the potential threats while using the technology. 
 
 Having good cyber hygiene is important not only to maintain the health of your system, making it run quickly and smoothly, but also to protect it from nefarious means such as viruses, malware, and other malicous attacks trying to hurt the system. Cyber hygiene is also important to protect the users from hackers and thieves trying to access things such as your data, social media, or vital accounts such as banking.
@@ -68,7 +68,7 @@ According to [NordPass](https://nordpass.com/most-common-passwords-list/) 2021 r
 * “bismillah”, an Arabic phrase meaning in the name of Allah, was used by 1,599 people in Saudi Arabia – the 30th most common choice.
 
 
-## Activity 1.1 - How secure is my password? ## 
+## Activity 1.2 - How secure is my password? ## 
 Aim - to learn which password combinations are the hardest to guess or crack.
 
 * Launch this site to see [How Secure is your Password?](https://www.security.org/how-secure-is-my-password/).
@@ -91,7 +91,7 @@ Based on this activity, and internet search use the [Paddlet link](https://yorks
   - C. ThEM(12)nkEy~Eats@BAnEnahs
   - D. Th3 m0nk3y 3475 b4n4n4s
 
-## Activity 1.2 - Design the strongest passphrase ##
+## Activity 1.3 - Design the strongest passphrase ##
 
 * Write an easy-to-remember statement. This could be a lyric from a song or a scene from a movie, a narrative about a place you've visited, or any other phrase you recall. See the following example.
   - "The cat is Milo and the dog is Otis".
@@ -102,7 +102,7 @@ Based on this activity, and internet search use the [Paddlet link](https://yorks
 * Use the link [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) to see how secure the password you created is? 
 
 
-## Activity 1.3 - Checking if your email has been a part of a data breach ##
+## Activity 1.4 - Checking if your email has been a part of a data breach ##
 
 Sometimes your own secuirty can only do so much. One growing concern, in the realm of cyber hygiene, is more and more companies have had their user databases breached; stealing all their userbases account details and data. From these details, hackers will use the breached data and attempt to sign into other services using the same details (hoping users will use the same details for multiple accounts) – hence it is important to use different passwords and enable two-factor authentication on all accounts.
 
