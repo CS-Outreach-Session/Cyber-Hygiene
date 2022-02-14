@@ -1,4 +1,4 @@
-# Keystroke Injection attacks - 30 minutes
+# Keystroke Injection attacks 
 A Keystroke Injection Attack has been an issue for computer users for a long time, and it is problematic due to the affordability and availability of keystroke injection tools.
 
 With the use of a specially designed USB device (the Rubber Ducky), often disguised as a thumb drive, that automatically runs code on any host computer into which it is plugged. 
