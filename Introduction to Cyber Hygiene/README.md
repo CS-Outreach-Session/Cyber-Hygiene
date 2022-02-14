@@ -27,18 +27,17 @@ The good news is that there are things we can do to improve our Cyber hygien
 
 # Good Practices for Cyber Hygiene
 
-* Keep software up to date, keeping software up to date means it is always ready to deal with the latest threats and any exploits will have been patched.
+* Keep software up to date. Keeping software up to date means it is always ready to deal with the latest threats and any exploits will have been patched.
 
-* Use secure passwords/password managers, avoid using common or easy to guess passwords means you’re less likely to be vulnerable to brute force attacks. 
-* Make regular backups of data, in the case of data being lost or corrupted it can always be recovered from a backup.
+* Use secure passwords/password managers. Avoid using common or easy to guess passwords means you’re less likely to be vulnerable to brute force attacks. 
 
-* Update your software regularly 
+* Make regular backups of data. In the case of data being lost or corrupted it can always be recovered from a backup.
 
 * Avoid accessing public Wi-Fi. Remember, whenever you connect your device to the Internet, you are at the mercy of the network owner. The person who owns the internet gateway can successfully filter your internet traffic and subsequently exploit your device through different forms of attacks.
 
-* Verify the wireless connection, do not just rely on names - Some bogus links — that have been set up by malicious users — will have a connection name that’s deliberately similar to the coffee shop, hotel or venue that’s offering free W - i-Fi.
+* Verify the wireless connection. Do not just rely on names of addresses, some bogus links, that have been set up by malicious users, will have a connection name that’s deliberately similar to the coffee shop, hotel or venue that’s offering free Wi-Fi.
 
-* Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
+* Avoid using specific types of websites, when using public Wi-Fi. It’s a good idea to avoid logging onto websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
 
 # Strong Password #
 Millions of passwords were compiled into a dataset to discover the top 200 most often used passwords worldwide in 2021 by a password management service [NordPass](https://nordpass.com/most-common-passwords-list/).
