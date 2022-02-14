@@ -20,7 +20,7 @@ To understand the principles and importance of cyber hygiene.
 
 ## Requirements 
 
-Students would be required to access a computer system, internet connectivity, and access privilege to download and install applications during the session.
+Students will require access to a computer system, internet connectivity, and have access privilege to download and install applications during the session.
 
 ## [Activity 1 - Introduction to Cyber Hygiene](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Introduction%20to%20Cyber%20Hygiene#what-is-cyber-hygiene-)
   * What is Cyber Hygiene ?
