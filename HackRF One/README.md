@@ -8,7 +8,7 @@ Cybercriminals frequently target businesses and individuals via emails that appe
 ## Types of Scoal Engineering ##
 Social engineering techniques include, but are not limited to, Trojan and phishing email messages, impersonation, persuasion, bribery, shoulder surfing, and dumpster diving, among others.
 
-* **Trojan email or phishing attacks** can be used to collect personal information, system credentials, or even compromise a user's operating system's security by installing malicious backdoor applications that give the attacker complete access to the machine.
+* **Trojan host** can be used to collect personal information, system credentials, or even compromise a user's operating system's security by installing malicious backdoor applications that give the attacker complete access to the machine.
 
 * **Impersonation** There are multiple types of impersonation techniques that a social engineer can use. Attackers often
 conduct impersonation attacks by telephone calling
@@ -16,6 +16,9 @@ conduct impersonation attacks by telephone calling
 * **Persuasion and Bribery**   In persuasion attacks, the social engineer will attempt to trick a person through various methods to divulge critical information or assist the attack in some other means.
 
 * **Shoulder Surfing** Shoulder surfing occurs when an attacker peers over an unwary user's shoulder as she enters her user name and password.
+
+
+## Signs of Phishing email 
 
  ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Signs%20of%20Phishing%20Email.png)
 
