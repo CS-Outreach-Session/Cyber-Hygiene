@@ -6,6 +6,8 @@ Social engineering is a technique that allows an attacker to get beyond technica
 Cybercriminals frequently target businesses and individuals via emails that appear to come from a genuine bank, government agency, or organisation. The sender of these emails instructs recipients to click on a link that will lead them to a page where they can validate personal information, account information, and other details.
 
 ## Types of Scoal Engineering ##
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attacks.png)
+
 Social engineering techniques include, but are not limited to, Trojan and phishing email messages, impersonation, persuasion, bribery, shoulder surfing, and dumpster diving, among others.
 
 * **Trojan host** can be used to collect personal information, system credentials, or even compromise a user's operating system's security by installing malicious backdoor applications that give the attacker complete access to the machine.
