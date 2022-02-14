@@ -16,8 +16,7 @@ To understand the principles and importance of cyber hygiene.
 * Students will also perform some exercises using specialised equipment for various cyber hygiene activities including:
      - Understanding keystroke injection attacks to execute payloads into network systems.
      - Attacking and monitoring keyboard inputs to observe user keystrokes.
-     - Setting up listening to transmissions sent over a radio signal. 
-
+    
 ## Requirements 
 
 Students will require access to a computer system, internet connectivity, and have access privilege to download and install applications during the session.
