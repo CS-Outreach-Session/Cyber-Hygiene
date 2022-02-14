@@ -1,6 +1,6 @@
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/ysj_HIoT.PNG)
 
-Dr Aminu Usman 
+Dr Aminu Bello Usman 
 
 # Cyber-Hygiene
 ## Learning Objectives
@@ -11,10 +11,8 @@ To understand the principles and importance of cyber hygiene.
 * This session will train and engage students to think proactively about cybersecurity, cyber threats, cybercrimes and improving their understanding of online security. 
    - students would be involved in the discussion on social engineering, the right tools and methods for cyber hygiene
    - general methods and practices of keeping safe and secure online, creating and managing strong password
-   - when and how to access public WIFI, and 
    - methods of detecting and reporting cyber harassment. 
    
-
 * Students will perform some exercises using specialised equipment for various cyber hygiene activities, including understanding keystroke injection attacks to execute payloads into network systems, attacking and monitoring keyboard inputs to observe user keystrokes, and setting up listening to transmissions sent over a radio signal. 
 
 ## Requirements 
