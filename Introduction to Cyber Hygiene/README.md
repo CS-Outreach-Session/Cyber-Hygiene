@@ -13,7 +13,7 @@ Having good cyber hygiene is important not only to maintain the health of your s
 * having out of date software 
 
 ## Activity 1.1 What other Cyber Hygiene Problems can you think of?
-Use this Paddlet link to write your answers for the question. The password for the link is xyz. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
+Use this [Paddlet link](https://yorksj.padlet.org/ausman3/3lqgt6gngnumchap) to write your answers for the question. The password for the link is xyz. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
 # What Can We Do To Protect Ourselves?
 The good news is that there are things we can do to improve our Cyber hygien 
