@@ -93,7 +93,7 @@ Based on this activity, do you feel the need to change your password?
 * Use the link [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) to see how secure the password you created is? 
 
 
-## Activity 1.3- Checking if your email has been a part of a data breach ##
+## Activity 1.3 - Checking if your email has been a part of a data breach ##
 
 Sometimes your own secuirty can only do so much. One growing concern, in the realm of cyber hygiene, is more and more companies have had their user databases breached; stealing all their userbases account details and data. From these details, hackers will use the breached data and attempt to sign into other services using the same details (hoping users will use the same details for multiple accounts) – hence it is important to use different passwords and enable two-factor authentication on all accounts.
 
