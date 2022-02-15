@@ -21,6 +21,13 @@ other forms signs of email Phising include:
 * A call for immediate action
 * Request for you to click on a link
  
+ 
+# A case study of  Phishing email 
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Phising_case%20study_1.png)
+
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Phising_case%20study_2.png)
+
 ## Key things to know about social enginering ##
 
 * Legit companies don’t request your sensitive information via email
