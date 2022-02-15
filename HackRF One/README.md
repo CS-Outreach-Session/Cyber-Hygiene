@@ -1,9 +1,17 @@
 
 # What is Social Engineering ?
+* The social engineering (SE) attack is manipulating the target (a person) to obtain information by a social engineer – an attacker.
 
-Social engineering is a technique that allows an attacker to get beyond technical controls by attacking an organization's human element. When successful, a social engineering attack almost always leads to some level of compromise. Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
+* Social Engineering is the most superior form of Cyber attacks attacks as users themselves are the attacks’ targets.
 
-Cybercriminals frequently target businesses and individuals via emails that appear to come from a genuine bank, government agency, or organisation. The sender of these emails instructs recipients to click on a link that will lead them to a page where they can validate personal information, account information, and other details.
+* The attacker can execute the attack in person by interacting with the target to gather desired information about the target(s) or use specialised software.
+
+###  A distinctive feature of SE attacks compared with the other forms of attacks, is social engineering attacks exploits human weaknesses and that it may be challenging
+to address the problem of human weaknesses.
+
+### Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
+
+
 
 ## Types of Scoal Engineering ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attacks.png)
