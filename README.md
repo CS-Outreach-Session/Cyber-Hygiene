@@ -1,11 +1,8 @@
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/ysj_HIoT.PNG)
-
 Dr Aminu Bello Usman 
-
 # Cyber-Hygiene
 ## Overview of the session 
 * Learning Objectives -to understand the principles and importance of cyber hygiene.
-
 * This session will train and engage students to think proactively about cybersecurity, cyber threats, cybercrimes and impprove their understanding of online security. 
    - Students will be involved in the discussion on social engineering, the right tools and methods for cyber hygiene.
    - General methods and practices of keeping safe and secure online, creating and managing strong password.
