@@ -6,12 +6,12 @@
 
 * The attacker can execute the attack in person by interacting with the target to gather desired information about the target(s) or use specialised software.
 
-###  A distinctive feature of SE attacks compared with the other forms of attacks, is social engineering attacks exploits human weaknesses and that it may be challenging
-to address the problem of human weaknesses.
+###  A distinctive feature of SE attacks compared with the other forms of attacks, is social engineering attacks exploits human weaknesses and that it may be challenging to address the problem of human weaknesses.
+
+[](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attack%20.png)
+
 
 ### Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
-
-
 
 ## Types of Scoal Engineering ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attacks.png)
