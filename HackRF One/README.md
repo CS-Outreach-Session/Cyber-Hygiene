@@ -20,7 +20,9 @@ other forms signs of email Phising include:
 * Generic greetings 
 * A call for immediate action
 * Request for you to click on a link
- 
+
+# A case study of Phising email
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/A%20case%20study%20of%20%20Phishing%20email)
 
 ## Key things to know about social enginering ##
 
