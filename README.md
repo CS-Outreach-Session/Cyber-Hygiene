@@ -22,8 +22,16 @@ Participants will require access to a computer system, internet connectivity, an
   * Good Practices for Cyber Hygiene
   * Starter activity on Cyber Hygiene
 
+
+## [Activity 2 - Social Engineering](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+* What is Social Engineering ?
+* Types of Scoal Engineering
+* Signs of phising emails 
+* Key things to know about social enginering
+* How can I protect myself from phishing attempts?
+
   
-## [Activity 2 - USB Threats: Practicing Keystroke Injection](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
+## [Activity 3 - USB Threats: Practicing Keystroke Injection](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
  * Rubber Ducky Parts
 * Writing your duckyScript
 * Exercises
@@ -31,19 +39,11 @@ Participants will require access to a computer system, internet connectivity, an
   - Exploit Scripts - Malicious code injection attack
 
 
-## [Activity 3 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
+## [Activity 4 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
 *	AirDrive Forensic Keylogger Pro – USB
 *	Setting up Forensic Keylogger Pro – USB
 *	Configurations
 *	Viewing recorded data
-
-
-## [Activity 4 - Social Engineering](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
-* What is Social Engineering ?
-* Types of Scoal Engineering
-* Signs of phising emails 
-* Key things to know about social enginering
-* How can I protect myself from phishing attempts?
 
 ## [Activity 5 - Cyberbullying and Online Exploitation](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
 
