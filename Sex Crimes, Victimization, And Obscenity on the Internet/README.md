@@ -1,12 +1,17 @@
 # Cyberbullying and Online Exploitation 
 
 # Cyberbullying
-* Cyberbullying is any sort of bullying that occurs online or on mobile devices such as smartphones and tablets. 
+
 * Cyberbullying is rife on the internet and most young people will experience it or see it at some time.
-* A 'hate incident' or 'hate crime' occurs when bullying or harassment is directed at you because of your disability, gender identity, race, religion, or sexual orientation.
-*  Nearly three out of four children (72%) who experienced an online bullying behaviour in the previous 12 months experienced at least some of it at school or [during school time](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/onlinebullyinginenglandandwales/yearendingmarch2020#bullying-and-school)
+
+
+
+What is Cyberbullying  and how can a Cyberbullying lead to  a 'hate incident' or 'hate crime' ? Use the [Paddlet link](https://yorksj.padlet.org/ausman3/qfmeenind26mcp6f) to post your answer. The password to the link is mYdOGISBigenough@89
+
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Types%20of%20cyberbullying%20.png)
+
+
 
 ## Activity 4.1 ##
 Use the following link to respond to the following [questions](https://ysj.onlinesurveys.ac.uk/cyberbullying)
