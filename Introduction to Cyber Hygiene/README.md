@@ -23,17 +23,7 @@ Use this [Paddlet link](https://yorksj.padlet.org/ausman3/3lqgt6gngnumchap) to w
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Cyber_Hygiene_what_can_we_do%20.png)
 # Good Practices for Cyber Hygiene
 
-* Keep software up to date. Keeping software up to date means it is always ready to deal with the latest threats and any exploits will have been patched.
-
-* Use secure passwords/password managers. Avoid using common or easy to guess passwords means you’re less likely to be vulnerable to brute force attacks. 
-
-* Make regular backups of data. In the case of data being lost or corrupted it can always be recovered from a backup.
-
-* Avoid accessing public Wi-Fi. Remember, whenever you connect your device to the Internet, you are at the mercy of the network owner. The person who owns the internet gateway can successfully filter your internet traffic and subsequently exploit your device through different forms of attacks.
-
-* Verify the wireless connection. Do not just rely on names of addresses, some bogus links, that have been set up by malicious users, will have a connection name that’s deliberately similar to the coffee shop, hotel or venue that’s offering free Wi-Fi.
-
-* Avoid using specific types of websites, when using public Wi-Fi. It’s a good idea to avoid logging onto websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. 
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Good_Practice_Cyber_Hygiene.png)
 
 # Strong Password #
 Millions of passwords were compiled into a dataset to discover the top 200 most often used passwords worldwide in 2021 by a password management service called [NordPass](https://nordpass.com/most-common-passwords-list/).
