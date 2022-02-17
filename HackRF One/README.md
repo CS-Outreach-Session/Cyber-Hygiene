@@ -1,6 +1,6 @@
 
 # What is Social Engineering ?
-* The social engineering (SE) attack is manipulating the target (a person) to obtain information by a social engineer – an attacker.
+* The social engineering (SE) is manipulating the target (a person) to obtain information by a social engineer – an attacker.
 
 * Social Engineering is the most superior form of Cyber attacks attacks as users themselves are the attacks’ targets.
 
