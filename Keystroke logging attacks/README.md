@@ -45,5 +45,5 @@ To view recorded data, plug the device in-between the keyboard and USB port, and
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/KeyGrabber_Keybord.PNG)
 
 
-
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/KeyLogger_protection.png)
 
