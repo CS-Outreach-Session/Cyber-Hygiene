@@ -66,7 +66,7 @@ Penetration testers use more complex scripts to explore (reconnaissance) or perf
 
 # Excercise
 
-Can you think of any way of any other way of preventing automated keystroke injection attacks? 
+Can you think of any other way of preventing automated keystroke injection attacks? 
 
 Use this [Paddlet link](https://yorksj.padlet.org/ausman3/zksusqedk08y1ran) to write your answers for the questions. The password for the link is mYdOGISBigenough@89. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
