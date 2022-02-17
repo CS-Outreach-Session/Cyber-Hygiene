@@ -1,7 +1,11 @@
 # What is Cyber Hygiene ?
-Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe, well-protected, and improve online security. This could involve a routine to ensure identity safety – such as using different passwords for each account or just having a general awareness of the potential threats while using the technology. 
+* Cyber hygiene is the practice of using computer systems and other technological devices to maintain computer system health, keep data safe, well-protected, and improve online security. 
 
-Having good cyber hygiene is important not only to maintain the health of your system, making it run quickly and smoothly, but also to protect it from nefarious means such as viruses, malware, and other malicous attacks trying to hurt the system. Cyber hygiene is also important to protect the users from hackers and thieves trying to access things such as your data, social media, or vital accounts such as banking.
+* This could involve a routine to ensure identity safety, data integrity and confidentiality, having a general awareness of the potential threats while using the technology, etc. 
+
+* Having good cyber hygiene is important not only to maintain the health of your system, making it run quickly and smoothly, but also to protect it from nefarious means such as viruses, malware, and other malicous attacks trying to hurt the system. 
+
+* Cyber hygiene is also important to protect the users from hackers and thieves trying to access things such as your data, social media, or vital accounts such as banking.
 
 **Online fraud** is negatively affecting the lives of people both financially and psychologically, due to the losses victims of such crime are facing. Sometimes victims of online fraud suffer beyond financial loss, for example, also suffering from depression, frustration, or can even commit suicide.
 
@@ -16,15 +20,7 @@ Having good cyber hygiene is important not only to maintain the health of your s
 Use this [Paddlet link](https://yorksj.padlet.org/ausman3/3lqgt6gngnumchap) to write your answers for the question. The password for the link is mYdOGISBigenough@89. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
 # What Can We Do To Protect Ourselves?
-The good news is that there are things we can do to improve our Cyber hygien 
-* Employ extra protection across all your devices.
-* Think before you post on social media 
-* Clean-up your digital past
-* Never reuse passwords
-* Avoid Sharing Personal Information Online
-* Improve your privacy and security settings
-* Avoid using public WIFI
-
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Cyber_Hygiene_what_can_we_do%20.png)
 # Good Practices for Cyber Hygiene
 
 * Keep software up to date. Keeping software up to date means it is always ready to deal with the latest threats and any exploits will have been patched.
