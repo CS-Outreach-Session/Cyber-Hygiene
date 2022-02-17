@@ -1,4 +1,4 @@
-# Keystroke Injection attacks 
+# Weaponized USB devices- Keystroke Injection attacks 
 A Keystroke Injection Attack has been an issue for computer users for a long time, and it is problematic due to the affordability and availability of keystroke injection tools.
 
 With the use of a specially designed USB device (the Rubber Ducky), often disguised as a thumb drive, that automatically runs code on any host computer into which it is plugged. 
@@ -10,6 +10,7 @@ A malicious code attack is a foundational tool used to carry out most cybersecur
 
 ## Hardware for the activity - USB Rubber Ducky
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/rubber-ducky-usb-full-kit.jpg)
+
 ## Rubber Ducky Parts
 
 There are three main parts that come with the Rubber Ducky that you’ll be using to create, test and launch exploits.
@@ -55,8 +56,11 @@ Penetration testers use more complex scripts to explore (reconnaissance) or perf
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Dont%20try%20this%20.png)
 
+# How to protect systems against weaponized USB devices
+![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/How_to_protect_system_Gainst_Keystroke.png)
+
 # Take home #
-The USB Rubber Ducky can be used to infect any computer it's plugged into with ransomware once the SD card is loaded. While this is a simulation, identical approaches might be used by a real attacker. You prevent yourself from these types of attacks by always taking reasonable precautions when leaving your computer unattended. Never leave your computer unattended without first securing it, and never use USB drives that you don't recognise.
+The USB Rubber Ducky can be used to infect any computer it's plugged into with ransomware once the SD card is loaded. While this is a simulation, identical approaches might be used by a real attack# er. You prevent yourself from these types of attacks by always taking reasonable precautions when leaving your computer unattended. Never leave your computer unattended without first securing it, and never use USB drives that you don't recognise.
 
 Many businesses expose USB ports to clients and visitors, and receptionists and other office workers frequently leave their workstations unattended. These kinds of errors might result in crucial corporate data being destroyed or held hostage. It's crucial to keep in mind.
 
