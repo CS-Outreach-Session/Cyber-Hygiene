@@ -66,7 +66,9 @@ Penetration testers use more complex scripts to explore (reconnaissance) or perf
 
 # Excercise
 
-Can you think of any way of preventing 
+Can you think of any way of any other way of preventing automated keystroke injection attacks? 
+
+Use this [Paddlet link](https://yorksj.padlet.org/ausman3/zksusqedk08y1ran) to write your answers for the questions. The password for the link is mYdOGISBigenough@89. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
 # Take home #
 The USB Rubber Ducky can be used to infect any computer it's plugged into with ransomware once the SD card is loaded. While this is a simulation, identical approaches might be used by a real attack# er. You prevent yourself from these types of attacks by always taking reasonable precautions when leaving your computer unattended. Never leave your computer unattended without first securing it, and never use USB drives that you don't recognise.
