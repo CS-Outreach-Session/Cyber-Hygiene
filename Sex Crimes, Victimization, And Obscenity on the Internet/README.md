@@ -5,19 +5,21 @@
 * Cyberbullying is rife on the internet and most young people will experience it or see it at some time.
 
 
+# Excercise
+## * What is Cyberbullying  and how can a Cyberbullying lead to  a 'hate incident' or 'hate crime' ? Use the [Paddlet link](https://yorksj.padlet.org/ausman3/qfmeenind26mcp6f) to post your answer. The password to the link is mYdOGISBigenough@89
 
-What is Cyberbullying  and how can a Cyberbullying lead to  a 'hate incident' or 'hate crime' ? Use the [Paddlet link](https://yorksj.padlet.org/ausman3/qfmeenind26mcp6f) to post your answer. The password to the link is mYdOGISBigenough@89
 
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Types%20of%20cyberbullying%20.png)
 
 
-
 ## Activity 4.1 ##
-Use the following link to respond to the following [questions](https://ysj.onlinesurveys.ac.uk/cyberbullying)
+Use the following link to respond to the following [questions](https://yorksj.padlet.org/ausman3/2qmqr5dyumosbhx0). The password to the link is mYdOGISBigenough@89
 
-* Q. Which of the above Cyberbullying did you experienced?
+* Q. What other forms of Cyberbullying can you think of ? 
+* SQ If you had an experience of Cyberbullying which of the one did you experienced?
 * SQ. What did you do about it?
+
 
 ## Activity 4.2 ##
 ### Read about [Megan Meier story](http://en.wikipedia.org/wiki/Suicide_of_Megan_Meier)
