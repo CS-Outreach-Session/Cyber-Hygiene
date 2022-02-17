@@ -1,8 +1,7 @@
 # Social Engineering Activity # 
 
 ## Examine each message to see whether it is genuine or a phishing attempt.  What else would you look for onscreen?
-## Use the the Paddlet link to answer your questions for each email
-[Paddlet link](https://yorksj.padlet.org/ausman3/sd5jg6emzqrwu1la)
+## Use the the Paddlet link to answer your questions for each email [Paddlet link](https://yorksj.padlet.org/ausman3/sd5jg6emzqrwu1la)
 
 ## Email 1 ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/examples-of-phishing-emails-netflix.png)
