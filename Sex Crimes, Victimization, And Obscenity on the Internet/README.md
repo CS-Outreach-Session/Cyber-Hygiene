@@ -6,7 +6,7 @@
 
 
 # Excercise
-## * What is Cyberbullying  and how can a Cyberbullying lead to  a 'hate incident' or 'hate crime' ? Use the [Paddlet link](https://yorksj.padlet.org/ausman3/qfmeenind26mcp6f) to post your answer. The password to the link is mYdOGISBigenough@89
+## What is Cyberbullying  and how can a Cyberbullying lead to  a 'hate incident' or 'hate crime' ? Use the [Paddlet link](https://yorksj.padlet.org/ausman3/qfmeenind26mcp6f) to post your answer. The password to the link is mYdOGISBigenough@89
 
 
 
