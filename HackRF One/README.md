@@ -10,7 +10,7 @@
 
 ### Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
 
-# The attacks’ operators of social engineering attacks against KBA can be classified into two main categories; social (or human)-based and computer-based attacks
+# The attacks’ operators of social engineering attacks can be classified into two main categories; social (or human)-based and computer-based attacks
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attack%20.png)
 ## Types of Scoal Engineering ##
