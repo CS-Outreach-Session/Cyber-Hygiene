@@ -6,7 +6,7 @@
 
 * An attacker can execute a SE attack either in person, by interacting with the target to gather desired information, or use specialised software.
 
-###  A distinctive feature of SE attacks compared with the other forms of attacks, is social engineering attacks exploits human weaknesses and hence it is difficult to address the problem of human weaknesses.
+###  A distinctive feature of SE attacks compared with other forms of attacks, is that social engineering attacks exploit human weaknesses and hence it is difficult to address the problem of human weaknesses.
 
 ### Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
 
