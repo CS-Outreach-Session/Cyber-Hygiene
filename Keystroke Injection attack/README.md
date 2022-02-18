@@ -45,11 +45,6 @@ To begin coding writing your script complete the following tasks:
 
 Congratulations! You have just executed your first script.
 
-## Using Rubber ducky to turn off Windows defender on a victims computer ##
-Repeat the above i - vi steps to execute script 2 as illustrated in the following Figure. You can copy the script from this [file.](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript2-%20Printing%20you%20have%20been%20hacked') 
-
-![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Screenshot%202022-02-12%20145710.png)
-
 # Exercise
 Penetration testers use more complex scripts to explore (reconnaissance) or perform Keystroke Injection attacks to test a target's security posture. Use the following scripts to observe and comment on the effects of the attacks. Repeat the above i - vi steps to execute the following scripts.
   1. What can you observe by executing the [duckyscript3](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/duckyScript3) ?
