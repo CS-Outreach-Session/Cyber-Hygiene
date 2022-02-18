@@ -24,8 +24,8 @@ Participants will require access to a computer system, internet connectivity, an
 
 
 ## [Activity 2 - Social Engineering](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
-* What is Social Engineering ?
-* Types of Scoal Engineering
+* What is Social Engineering?
+* Types of Scoal Engineering Attacks
 * Signs of phising emails 
 * Key things to know about social enginering
 * How can I protect myself from phishing attempts?
