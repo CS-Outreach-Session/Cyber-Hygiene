@@ -1,16 +1,16 @@
 
 # What is Social Engineering ?
-* The social engineering (SE) is manipulating the target (a person) to obtain information by a social engineer – an attacker.
+* A social engineering (SE) attack is when an attacker tries to manipulate a target to obtain information.
 
-* Social Engineering is the most superior form of Cyber attacks as users themselves are the attacks’ targets.
+* Social engineering attacks are some of the strongest cyber attacks, as they target the weakest link - the user.
 
-* The attacker can execute the attack in person by interacting with the target to gather desired information about the target(s) or use specialised software.
+* An attacker can execute a SE attack either in person, by interacting with the target to gather desired information, or use specialised software.
 
-###  A distinctive feature of SE attacks compared with the other forms of attacks, is social engineering attacks exploits human weaknesses and that it may be challenging to address the problem of human weaknesses.
+###  A distinctive feature of SE attacks compared with the other forms of attacks, is social engineering attacks exploits human weaknesses and hence it is difficult to address the problem of human weaknesses.
 
 ### Because they rely on human variables, social engineering attacks are both easy to commit and difficult to defend against.
 
-# The attacks’ operators of social engineering attacks can be classified into two main categories; social (or human)-based and computer-based attacks
+# Attackers that use SE attacks can be classified into two main categories; social (or human)-based and computer-based attacks
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attack%20.png)
 ## Types of Scoal Engineering ##
@@ -23,7 +23,7 @@ Now, let's understand the maening of these terms. Pick any of the terms in the d
 
  ![Signs of Phising email](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Signs%20of%20Phishing%20Email.png)
 
-other forms signs of email Phising include:
+other signs of email phising include:
 * Sense of urgency
 * Generic greetings 
 * A call for immediate action
