@@ -47,3 +47,12 @@ To view recorded data, plug the device in-between the keyboard and USB port, and
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/KeyLogger_protection.png)
 
+
+## Scanning a Keylogger Log File
+
+Below is a text file (log.txt) containing what a large data sample from a keylogger may look like.
+
+Your task is to scan the recorded data for potentially useful information a hacker would be interested in. 
+
+You should try infer what each peice of data might be used for. For example, email addresses, computer login details etc.  
+
