@@ -50,11 +50,11 @@ To view recorded data, plug the device in-between the keyboard and USB port, and
 
 ## Scanning a Keylogger Output File
 
-Below is a text file (log.txt) containing what a large data sample from a keylogger may look like.
+Below is a text file (log.txt) containing what a data sample from a keylogger output file may look like.
 
 Your task is to scan the recorded data for potentially useful information a hacker would be interested in. 
 
-You should try infer what each peice of data might be used for. For example, email addresses, computer login details etc.  
+Try to infer what the context of each piece of data is used for.  
 
 [log.txt](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Keystroke%20logging%20attacks/log.txt) 
 
