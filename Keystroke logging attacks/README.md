@@ -48,7 +48,7 @@ To view recorded data, plug the device in-between the keyboard and USB port, and
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/KeyLogger_protection.png)
 
 
-## Scanning a Keylogger Log File
+## Scanning a Keylogger Output File
 
 Below is a text file (log.txt) containing what a large data sample from a keylogger may look like.
 
