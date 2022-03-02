@@ -44,6 +44,7 @@ Participants will require access to a computer system, internet connectivity, an
 *	Setting up Forensic Keylogger Pro – USB
 *	Configurations
 *	Viewing recorded data
+*	Scanning a Keylogger Output File
 
 ## [Activity 5 - Cyberbullying and Online Exploitation](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Sex%20Crimes%2C%20Victimization%2C%20And%20Obscenity%20on%20the%20Internet)
 
