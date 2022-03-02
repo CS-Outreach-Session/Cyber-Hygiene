@@ -56,3 +56,5 @@ Your task is to scan the recorded data for potentially useful information a hack
 
 You should try infer what each peice of data might be used for. For example, email addresses, computer login details etc.  
 
+log.txt(https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Keystroke%20logging%20attacks/log.txt) 
+
