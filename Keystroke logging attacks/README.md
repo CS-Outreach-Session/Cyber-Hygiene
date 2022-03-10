@@ -56,7 +56,5 @@ Your task is to scan the recorded data for potentially useful information a hack
 
 Try to infer what the context of each piece of data is used for.  
 
-[log.txt](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/Keystroke%20logging%20attacks/log.txt) 
-
 # [Click on this link to complete the Quizzes](https://docs.google.com/forms/d/e/1FAIpQLScFbEfwsCB-WjsGxUKjNdSYSF9o3Ec9FEd5WFJeEjQ9B_v-UA/viewform?usp=sf_link)
 
