@@ -1,4 +1,5 @@
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/ysj_HIoT.PNG)
+Dr Aminu Bello Usman
 
 # Cyber-Hygiene
 ## Overview of the session 
