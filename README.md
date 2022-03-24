@@ -3,7 +3,7 @@
 
 # Cyber Hygiene
 
-Dr Aminu Bello Usman
+
 
 ## Overview of the session 
 
@@ -36,7 +36,7 @@ Participants will require access to a computer system, internet connectivity, an
 *	Scanning a Keylogger Output File
 
 
-## [Activity 3 - Packet Sniffing (40 Minutes)](https://github.com/CS-Outreach-Session/Network-Security-/tree/main/Packet%20Sniffing)
+## [Activity 3 - Packet Sniffing ](https://github.com/CS-Outreach-Session/Network-Security-/tree/main/Packet%20Sniffing)
 * Packet sniffing
 * Running Wireshark
 * HTTP Authentication
