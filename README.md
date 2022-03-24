@@ -28,14 +28,28 @@ Participants will require access to a computer system, internet connectivity, an
   * Good Practices for Cyber Hygiene
   * Starter activity on Cyber Hygiene
 
-## [Activity 2 - USB Threats: Practicing Keystroke Injection](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
+## [Activity 2 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
+*	AirDrive Forensic Keylogger Pro – USB
+*	Setting up Forensic Keylogger Pro – USB
+*	Configurations
+*	Viewing recorded data
+*	Scanning a Keylogger Output File
+
+
+## [Activity 3 - Packet Sniffing (40 Minutes)](https://github.com/CS-Outreach-Session/Network-Security-/tree/main/Packet%20Sniffing)
+* Packet sniffing
+* Running Wireshark
+* HTTP Authentication
+
+
+## [Activity 4 - USB Threats: Practicing Keystroke Injection](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20Injection%20attack)
  * Rubber Ducky Parts
 * Writing your duckyScript
 * Exercises
   - Reconnaissance Scripts
   - Exploit Scripts - Malicious code injection attack
 
-## [Activity 3 - Social Engineering](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+## [Activity 5 - Social Engineering](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
 * What is Social Engineering?
 * Types of Scoal Engineering Attacks
 * Signs of phising emails 
@@ -43,12 +57,6 @@ Participants will require access to a computer system, internet connectivity, an
 * How can I protect myself from phishing attempts?
 
   
-## [Activity 4 - Practicing Keystroke logging using AirDrive Forensic Keylogger Pro](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/Keystroke%20logging%20attacks)
-*	AirDrive Forensic Keylogger Pro – USB
-*	Setting up Forensic Keylogger Pro – USB
-*	Configurations
-*	Viewing recorded data
-*	Scanning a Keylogger Output File
 
 
 
