@@ -49,12 +49,7 @@ Participants will require access to a computer system, internet connectivity, an
   - Reconnaissance Scripts
   - Exploit Scripts - Malicious code injection attack
 
-## [Activity 5 - Social Engineering](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
-* What is Social Engineering?
-* Types of Scoal Engineering Attacks
-* Signs of phising emails 
-* Key things to know about social enginering
-* How can I protect myself from phishing attempts?
+
 
   
 
