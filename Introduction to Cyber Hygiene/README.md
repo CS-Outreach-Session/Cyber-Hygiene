@@ -88,15 +88,7 @@ Use the [Paddlet link](https://yorksj.padlet.org/ausman3/jewean593fvgbgqu) to po
 * Use the link [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) to see how secure the password you created is? 
 
 
-## Activity 1.4 - Checking if your email has been a part of a data breach ##
-
-Sometimes your own secuirty can only do so much. One growing concern, in the realm of cyber hygiene, is more and more companies have had their user databases breached; stealing all their userbases account details and data. From these details, hackers will use the breached data and attempt to sign into other services using the same details (hoping users will use the same details for multiple accounts) – hence it is important to use different passwords and enable two-factor authentication on all accounts.
-
-The following exercise will show if your email address has been apart of any data breaches:
-
-* Simply type your email address in the [this link](https://haveibeenpwned.com/)  and click the 'pwned?' key to check if any of your email addresses have been a part of data breaches. 
-* If need be, make a note of, or consider changing passwords to any accounts that have been breached and also consider changing the passwords of any accounts that share those login details.
-* In the future, always consider enabling two-factor authentication and use different passwords for each account (perhaps consider using a password manager to help you remember and create many strong passwords). 
+ 
 
 # [Click on this link to complete the quiz](https://docs.google.com/forms/d/e/1FAIpQLSdGo9mZDkXuK-PMQhUQSWnh0b7hTyoeM_Tp1Gxy8J08IrSBkA/viewform?usp=sf_link)
 
