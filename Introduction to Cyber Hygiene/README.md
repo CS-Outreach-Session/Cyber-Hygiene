@@ -19,8 +19,7 @@
 ## Activity 1.1 What other Cyber Hygiene Problems can you think of?
 Use this [Paddlet link](https://yorksj.padlet.org/ausman3/3lqgt6gngnumchap) to write your answers for the question. The password for the link is mYdOGISBigenough@89. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
 
-# World's Biggest Data Breaches & Hacks
-![](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+# [World's Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 
 # What Can We Do To Protect Ourselves?
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Cyber_Hygiene_what_can_we_do%20.png)
