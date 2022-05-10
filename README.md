@@ -4,8 +4,6 @@
 # Cyber Hygiene
 
 
-## Dr Aminu Bello Usman
-
 ## Overview of the session 
 
 * This session will train and engage students to think proactively about cybersecurity, cyber threats, cybercrimes and impprove their understanding of online security. 
