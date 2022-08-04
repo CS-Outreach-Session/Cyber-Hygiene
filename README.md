@@ -1,10 +1,12 @@
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/ysj_HIoT.PNG)
 
+
+# Cyber Hygiene
+
+
 # Dr Aminu Usman 
 ## Cybersecurity Research Group (CRG)
 ## Department of Computing and Data Science, York St John, University
-
-# Cyber Hygiene
 
 
 ## Overview of the session 
