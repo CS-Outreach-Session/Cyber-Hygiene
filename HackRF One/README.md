@@ -13,7 +13,7 @@
 # Attackers that use SE attacks can be classified into two main categories; social (or human)-based and computer-based attacks
 
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attack%20.png)
-## Types of Scoal Engineering ##
+## Types of Social Engineering ##
 ![](https://github.com/CS-Outreach-Session/Cyber-Hygiene/blob/main/images/Social_engineering_attacks.png)
 
 Now, let's understand the maening of these terms. Pick any of the terms in the diagram above and use this [Paddlet link](https://yorksj.padlet.org/ausman3/jyt6nr96zretx2sf) to write the meaning of the term (You may serach on the internet). The password for the link is mYdOGISBigenough@89. To write on the paddlet you may need to click on the + button or double click anywhere on the screen.
