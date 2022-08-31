@@ -49,5 +49,6 @@
   - Reconnaissance Scripts
   - Exploit Scripts - Malicious code injection attack
 
+##[Activity 5 - Social Engineering 30 minutes ](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
 
 ## [Feedback (3 minutes)](https://ysj.onlinesurveys.ac.uk/cyber-security-outreach-feedback)
