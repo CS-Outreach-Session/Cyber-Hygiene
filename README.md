@@ -49,6 +49,11 @@
   - Reconnaissance Scripts
   - Exploit Scripts - Malicious code injection attack
 
-##[Activity 5 - Social Engineering 30 minutes ](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+##[Activity 5 - Social Engineering 30 minutes](https://github.com/CS-Outreach-Session/Cyber-Hygiene/tree/main/HackRF%20One)
+* What is Social Engineering 
+* Types of Social Engineering
+* Signs of Phishing email
+* Key things to know about social engineering
+* How can I protect myself from phishing attempts?
 
 ## [Feedback (3 minutes)](https://ysj.onlinesurveys.ac.uk/cyber-security-outreach-feedback)
